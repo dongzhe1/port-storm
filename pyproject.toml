@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "portstorm"
+version = "0.1.0"
+description = "Hurricane impacts on U.S. port traffic, fuel, CO2 and SO2 from AIS"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas>=2.0", "polars>=0.20", "pyarrow", "requests"]
+
+[project.optional-dependencies]
+prophet = ["prophet"]
+extra = ["zstandard", "openpyxl"]
+
+[project.scripts]
+portstorm = "portstorm.__main__:main"
+
+[tool.setuptools]
+packages = ["portstorm"]

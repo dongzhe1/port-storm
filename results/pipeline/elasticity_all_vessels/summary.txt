@@ -1,0 +1,63 @@
+Calendar   : 3,285 days processed by both panels; 2 day(s) only one of them has, excluded (first 2017-06-26)
+Population : emissions from every registered vessel
+             NOTE vessels_present counts cargo and tanker calls only, so b_CO2 here is total port emissions against merchant traffic, and b_H / b_I mix two populations -- they are not per-vessel quantities. Use --classes cargo,tanker for the decomposition.
+Ports      : 39 pass >=5.0 vessels/day, 80 pass >=10.0 t co2_ton/day, 39 pass both
+Gap panel  : 128,067 port-days, 2015-2023
+Scored     : 706 windows, 27 ports, 85 cyclones (706 usable for the log fit)
+
+Elasticity to vessels present, log-log OLS, 95% CI by port bootstrap
+  CO2 per day              b =  0.725   [ 0.583,  0.896]   n = 701
+    hours per vessel       b = -0.584   [-0.668, -0.482]   n = 701
+    CO2 per vessel-hour    b =  0.309   [ 0.216,  0.403]   n = 701
+  identity check: 1 + b_H + b_I = 0.725 vs b_CO2 = 0.725
+
+Gap adjustment, on the 706 of 706 windows with gap coverage
+  excess discarded time: median -0.552%, 90th pct +1.938%, max +32.099%
+  b_CO2 raw           0.725   [ 0.573,  0.881]
+  b_CO2 gap-adjusted  0.720   [ 0.573,  0.874]
+
+Median window ratio by distance to the eye
+    0-100 km  n= 133   CO2 0.857 = N 0.809 x H 1.157 x I 0.874
+  100-200 km  n= 149   CO2 0.850 = N 0.840 x H 1.114 x I 0.913
+  200-300 km  n= 125   CO2 0.948 = N 0.956 x H 1.043 x I 0.931
+  300-400 km  n= 146   CO2 0.992 = N 0.964 x H 1.027 x I 0.977
+  400-500 km  n= 153   CO2 1.023 = N 0.993 x H 1.034 x I 0.969
+
+Median window ratio by category [sshs_max: peak while this port was exposed]
+  cat  -4     n=  59   CO2 1.060 = N 1.043 x H 1.020 x I 0.984
+  cat  -3     n=  50   CO2 0.924 = N 0.920 x H 0.997 x I 0.960
+  cat  -1     n=  49   CO2 0.979 = N 1.005 x H 1.018 x I 0.991
+  cat   0     n= 321   CO2 0.975 = N 0.952 x H 1.048 x I 0.955
+  cat   1     n= 101   CO2 0.950 = N 0.879 x H 1.153 x I 0.899
+  cat   2     n=  15   CO2 0.862 = N 0.762 x H 1.154 x I 0.905
+  cat   3     n=  36   CO2 0.733 = N 0.728 x H 1.170 x I 0.839
+  cat   4     n=  50   CO2 0.576 = N 0.505 x H 1.230 x I 0.770
+  cat   5     n=  20   CO2 0.791 = N 0.813 x H 1.097 x I 0.836
+
+Median window ratio by category [sshs_storm_lifetime: storm's peak anywhere -- CyPort's definition]
+  cat  -1     n=  12   CO2 0.970 = N 0.980 x H 0.993 x I 1.034
+  cat   0     n= 351   CO2 0.978 = N 0.973 x H 1.020 x I 0.963
+  cat   1     n= 129   CO2 0.910 = N 0.854 x H 1.141 x I 0.917
+  cat   2     n=  19   CO2 0.892 = N 0.897 x H 1.087 x I 0.910
+  cat   3     n=  28   CO2 0.995 = N 0.969 x H 1.060 x I 0.953
+  cat   4     n=  97   CO2 0.801 = N 0.848 x H 1.077 x I 0.857
+  cat   5     n=  59   CO2 0.669 = N 0.743 x H 1.232 x I 0.800
+
+CO2 shortfall over all windows
+  measured                   100,342 t   (suppressed 150,193 t, raised 49,851 t elsewhere in the same windows)
+  traffic-scaled, b=1        111,683 t
+  the traffic route understates it by -11% (0.90x)
+
+Placebo: the same estimate on shifted windows
+     shift      n    b_CO2    CO2 shortfall   <=200km median r_CO2
+      REAL    706    0.725        100,342 t                  0.852
+       -2y    610    0.795          4,637 t                  0.983
+       -1y    675    0.594        -14,877 t                  0.996
+      -60d    698    0.535         -2,020 t                  0.996
+      -30d    706    0.583         -5,094 t                  0.991
+      +30d    704    0.570        -32,390 t                  1.014
+      +60d    696    0.708         -3,319 t                  1.005
+       +1y    656    0.594        -13,073 t                  0.979
+       +2y    635    0.634         -2,739 t                  0.998
+  real b 0.725 is INSIDE the placebo range -- not distinguishable from ordinary weather [0.535, 0.795] over 8 shifts
+

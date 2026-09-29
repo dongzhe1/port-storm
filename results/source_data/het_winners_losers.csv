@@ -1,0 +1,10 @@
+window,measure,n,sig_up,sig_down,expected_up_by_chance,expected_down_by_chance,share_point_above_1
+storm,CO2,344,1,99,5.8,11.8,0.244
+storm,NOx,344,2,115,4.6,12.7,0.203
+storm,ship-hours,344,4,67,5.3,12.3,0.363
+after,CO2,344,11,14,6.5,10.9,0.616
+after,NOx,344,12,17,4.2,13.2,0.599
+after,ship-hours,344,10,9,5.1,12.3,0.587
+event30,CO2,344,10,7,7.9,9.7,0.57
+event30,NOx,344,12,9,6.9,10.7,0.576
+event30,ship-hours,344,13,3,6.9,10.4,0.558

@@ -1,0 +1,17 @@
+outcome,intensity,drop,full,min,max,most_influential,n_units
+"Total CO2, storm window",Hurricane ≥64 kt,port,0.47105590776150985,0.45781222010748085,0.48810657278330793,"PortMiami, FL",26
+"Total CO2, storm window",Hurricane ≥64 kt,SID,0.47105590776150985,0.44746619496503326,0.5134231379829932,2017242N16333,15
+"Total CO2, after window",Hurricane ≥64 kt,port,1.077290597739001,1.0670690211945402,1.0922527586462725,"Greater Lafourche Port, LA",26
+"Total CO2, after window",Hurricane ≥64 kt,SID,1.077290597739001,1.0407271235433648,1.111722327762281,2017242N16333,15
+"Total vessel-hours, storm window",Hurricane ≥64 kt,port,0.65470564637257,0.6394525278835553,0.6712177770081751,"Plaquemines Port District, LA",26
+"Total vessel-hours, storm window",Hurricane ≥64 kt,SID,0.65470564637257,0.6226660927474852,0.7324588074997282,2021239N17281,15
+"Berth CO2, storm window",Hurricane ≥64 kt,port,0.523889808006998,0.49935718895243114,0.5755432833974676,"Corpus Christi, TX",26
+"Berth CO2, storm window",Hurricane ≥64 kt,SID,0.523889808006998,0.48903847797473243,0.5724341832454708,2017228N14314,15
+"Anchorage vessel-hours, after window",Hurricane ≥64 kt,port,1.3802253739615633,1.2831316518295057,1.4148357767195672,"Plaquemines Port District, LA",22
+"Anchorage vessel-hours, after window",Hurricane ≥64 kt,SID,1.3802253739615633,1.3213107100369217,1.4202554334336361,2021239N17281,15
+"Offshore-hold vessel-hours, after window",Hurricane ≥64 kt,port,1.5255424986167476,1.3893092515034016,1.7442892724604593,"Galveston, TX",14
+"Offshore-hold vessel-hours, after window",Hurricane ≥64 kt,SID,1.5255424986167476,1.2506151318670307,1.783303987913251,2020233N14313,12
+"Open-water vessel-hours, storm window",Hurricane ≥64 kt,port,0.502562462079139,0.48060889594409417,0.5328870253871548,"Plaquemines Port District, LA",20
+"Open-water vessel-hours, storm window",Hurricane ≥64 kt,SID,0.502562462079139,0.46989678984158184,0.5632935389599963,2017242N16333,15
+"Port calls, storm window",Hurricane ≥64 kt,port,0.46086704499314374,0.43780968978489987,0.484853518122706,"Plaquemines Port District, LA",22
+"Port calls, storm window",Hurricane ≥64 kt,SID,0.46086704499314374,0.41431729005675383,0.5100012661331167,2017277N11279,13

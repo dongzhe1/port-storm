@@ -1,0 +1,5 @@
+landfall,n_events,n_cyclones,group,co2_storm_ratio,lo,hi
+0,25,7,all classes,,,
+0,6,2,hurricanes,0.45956958835675527,,
+1,319,42,all classes,,,
+1,61,13,hurricanes,0.47248267205855815,0.33737940771285385,0.6044070609304877

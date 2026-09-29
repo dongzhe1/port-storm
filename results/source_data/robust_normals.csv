@@ -1,0 +1,241 @@
+variant,outcome,intensity,n,ratio,lo,hi
+default,"Total CO2, storm window",Tropical storm <50 kt,223,0.8228070016260224,0.7398133341629322,0.9117137523995418
+default,"Total CO2, storm window",Strong TS 50–63 kt,54,0.7336611502530068,0.6648306086780139,0.7735046757278805
+default,"Total CO2, storm window",Hurricane ≥64 kt,67,0.47105590776150985,0.358279067336933,0.5892209083001771
+default,"Total CO2, after window",Tropical storm <50 kt,223,1.037738130251944,0.970707501794757,1.104228164633274
+default,"Total CO2, after window",Strong TS 50–63 kt,54,1.022302680913829,0.9664206252811849,1.0735434004339552
+default,"Total CO2, after window",Hurricane ≥64 kt,67,1.077290597739001,0.9714061715036489,1.1874083173535148
+default,"Total vessel-hours, storm window",Tropical storm <50 kt,223,0.9400086268282893,0.8821203930121185,0.9960717809573302
+default,"Total vessel-hours, storm window",Strong TS 50–63 kt,54,0.9159384618899529,0.8100988207419517,0.9708551744090554
+default,"Total vessel-hours, storm window",Hurricane ≥64 kt,67,0.65470564637257,0.49754908637496853,0.8099985953813705
+default,"Berth CO2, storm window",Tropical storm <50 kt,223,0.894165857150674,0.7720510621777885,1.0095054142150441
+default,"Berth CO2, storm window",Strong TS 50–63 kt,54,0.9210856058655092,0.7331539049848325,1.0257619777100608
+default,"Berth CO2, storm window",Hurricane ≥64 kt,67,0.523889808006998,0.3798071202623399,0.6842282083320493
+default,"Anchorage vessel-hours, after window",Tropical storm <50 kt,180,1.149417146256339,0.9922152462239194,1.3697272534860512
+default,"Anchorage vessel-hours, after window",Strong TS 50–63 kt,43,1.0222965928180656,0.919596156068628,1.1137020476269572
+default,"Anchorage vessel-hours, after window",Hurricane ≥64 kt,57,1.3802253739615633,1.2665065525251198,1.5286511996734695
+default,"Offshore-hold vessel-hours, after window",Tropical storm <50 kt,114,1.1907309311764307,0.982400740800708,1.4319455688736629
+default,"Offshore-hold vessel-hours, after window",Strong TS 50–63 kt,29,1.1379360431757213,1.0208613336948258,1.3899942155618559
+default,"Offshore-hold vessel-hours, after window",Hurricane ≥64 kt,33,1.5255424986167476,1.0471708679533367,2.1529435550353093
+default,"Open-water vessel-hours, storm window",Tropical storm <50 kt,173,0.8283551342057427,0.7123461437569206,0.9355184214477513
+default,"Open-water vessel-hours, storm window",Strong TS 50–63 kt,46,0.6476224516184811,0.5689909963758419,0.7946196561880382
+default,"Open-water vessel-hours, storm window",Hurricane ≥64 kt,52,0.502562462079139,0.3483440642956842,0.6712402215015609
+default,"Port calls, storm window",Tropical storm <50 kt,174,0.7735004440029247,0.6530722628459414,0.9095226233548841
+default,"Port calls, storm window",Strong TS 50–63 kt,43,0.6884857780670638,0.5573593472648345,0.8743655086106682
+default,"Port calls, storm window",Hurricane ≥64 kt,52,0.46086704499314374,0.3008326032724838,0.6117076401099646
+"reference [-60,-11]","Total CO2, storm window",Tropical storm <50 kt,223,0.8221991768084166,0.7462113894857273,0.9047370439074545
+"reference [-60,-11]","Total CO2, storm window",Strong TS 50–63 kt,54,0.7263520574525549,0.6610541165318132,0.7624510455239923
+"reference [-60,-11]","Total CO2, storm window",Hurricane ≥64 kt,67,0.4736114204224177,0.36046509425369494,0.5873950403868287
+"reference [-60,-11]","Total CO2, after window",Tropical storm <50 kt,223,1.0344999010543965,0.9633313372172285,1.1077906626244525
+"reference [-60,-11]","Total CO2, after window",Strong TS 50–63 kt,54,1.016841096471894,0.9595013506384232,1.080171278516202
+"reference [-60,-11]","Total CO2, after window",Hurricane ≥64 kt,67,1.0751344435430341,0.9712070812248915,1.1866429752375214
+"reference [-60,-11]","Total vessel-hours, storm window",Tropical storm <50 kt,223,0.9368326524572544,0.8872576462055509,0.9847581178498915
+"reference [-60,-11]","Total vessel-hours, storm window",Strong TS 50–63 kt,54,0.9076347336239527,0.8043822504532017,0.9592979120644365
+"reference [-60,-11]","Total vessel-hours, storm window",Hurricane ≥64 kt,67,0.6566674845585915,0.49939972537847,0.8154729827097682
+"reference [-60,-11]","Berth CO2, storm window",Tropical storm <50 kt,223,0.8958285613068275,0.7866432133618654,1.0072109412219254
+"reference [-60,-11]","Berth CO2, storm window",Strong TS 50–63 kt,54,0.9132395871299349,0.7284404747660399,1.012123463851993
+"reference [-60,-11]","Berth CO2, storm window",Hurricane ≥64 kt,67,0.5327873565263229,0.3909250256501779,0.6878319678182034
+"reference [-60,-11]","Anchorage vessel-hours, after window",Tropical storm <50 kt,180,1.1394162892708657,0.9651535378820929,1.3746730943113332
+"reference [-60,-11]","Anchorage vessel-hours, after window",Strong TS 50–63 kt,43,0.9882293511804271,0.9056109925475782,1.0816636386756713
+"reference [-60,-11]","Anchorage vessel-hours, after window",Hurricane ≥64 kt,57,1.3877319827758805,1.260424530530017,1.5315554268293206
+"reference [-60,-11]","Offshore-hold vessel-hours, after window",Tropical storm <50 kt,114,1.2184183836369207,1.0022878279335183,1.4663938531319467
+"reference [-60,-11]","Offshore-hold vessel-hours, after window",Strong TS 50–63 kt,29,1.1394433840429612,0.9992121436950083,1.4422714030657646
+"reference [-60,-11]","Offshore-hold vessel-hours, after window",Hurricane ≥64 kt,33,1.5331831823650763,1.0605080311932964,2.0990634460775737
+"reference [-60,-11]","Open-water vessel-hours, storm window",Tropical storm <50 kt,173,0.8315922484314763,0.7136367479042641,0.9381453163833778
+"reference [-60,-11]","Open-water vessel-hours, storm window",Strong TS 50–63 kt,46,0.6564231576812812,0.5768581574014481,0.8087645235028454
+"reference [-60,-11]","Open-water vessel-hours, storm window",Hurricane ≥64 kt,52,0.5031458785958078,0.3487654009763022,0.66907999882262
+"reference [-60,-11]","Port calls, storm window",Tropical storm <50 kt,174,0.7776419263780106,0.6536101118765344,0.9187546840659491
+"reference [-60,-11]","Port calls, storm window",Strong TS 50–63 kt,43,0.684201757472689,0.5542152430267069,0.8642779179592249
+"reference [-60,-11]","Port calls, storm window",Hurricane ≥64 kt,52,0.4624564527093034,0.3021371805190941,0.6102408149401829
+"reference [-30,-8]","Total CO2, storm window",Tropical storm <50 kt,222,0.8218537448209484,0.7403375601857012,0.9030483253294386
+"reference [-30,-8]","Total CO2, storm window",Strong TS 50–63 kt,54,0.7528197967964352,0.6819233119319255,0.7869691194281365
+"reference [-30,-8]","Total CO2, storm window",Hurricane ≥64 kt,67,0.4663644715999204,0.3550383334965911,0.5794109578027162
+"reference [-30,-8]","Total CO2, after window",Tropical storm <50 kt,222,1.0284010623893252,0.9604125741616992,1.097209861012852
+"reference [-30,-8]","Total CO2, after window",Strong TS 50–63 kt,54,1.0527551028490694,1.0046693375795033,1.097073222837574
+"reference [-30,-8]","Total CO2, after window",Hurricane ≥64 kt,67,1.0558288965509723,0.9614142985287412,1.155962275339627
+"reference [-30,-8]","Total vessel-hours, storm window",Tropical storm <50 kt,222,0.9321017249700655,0.8723006929072541,0.9838676176885317
+"reference [-30,-8]","Total vessel-hours, storm window",Strong TS 50–63 kt,54,0.9298257890283906,0.8250522179343249,0.9810486345979819
+"reference [-30,-8]","Total vessel-hours, storm window",Hurricane ≥64 kt,67,0.6468109200530525,0.49622181089685047,0.797091545861759
+"reference [-30,-8]","Berth CO2, storm window",Tropical storm <50 kt,222,0.8951285302286383,0.7652930204746151,1.0054149337776337
+"reference [-30,-8]","Berth CO2, storm window",Strong TS 50–63 kt,54,0.9258649139193196,0.740991112175429,1.0344517045858126
+"reference [-30,-8]","Berth CO2, storm window",Hurricane ≥64 kt,67,0.5185874804702987,0.3790510980302073,0.6712070578685846
+"reference [-30,-8]","Anchorage vessel-hours, after window",Tropical storm <50 kt,180,1.1361541854380555,0.9757741732555671,1.3604727762101296
+"reference [-30,-8]","Anchorage vessel-hours, after window",Strong TS 50–63 kt,43,1.033548533505777,0.942434275838659,1.1715124063136588
+"reference [-30,-8]","Anchorage vessel-hours, after window",Hurricane ≥64 kt,57,1.386945184734004,1.307763180564265,1.4934071629899708
+"reference [-30,-8]","Offshore-hold vessel-hours, after window",Tropical storm <50 kt,114,1.1934765376872363,0.9884684686518768,1.4405140871001456
+"reference [-30,-8]","Offshore-hold vessel-hours, after window",Strong TS 50–63 kt,29,1.1680011393474772,1.0880776981318723,1.374625747498696
+"reference [-30,-8]","Offshore-hold vessel-hours, after window",Hurricane ≥64 kt,33,1.5904138518265671,1.0843287773306873,2.2077404079691605
+"reference [-30,-8]","Open-water vessel-hours, storm window",Tropical storm <50 kt,173,0.8125297047474974,0.6981459829785378,0.9138998985821936
+"reference [-30,-8]","Open-water vessel-hours, storm window",Strong TS 50–63 kt,46,0.6654416266600945,0.584070859607372,0.792942295582306
+"reference [-30,-8]","Open-water vessel-hours, storm window",Hurricane ≥64 kt,52,0.48828505952470874,0.3383718424696266,0.6526288471646395
+"reference [-30,-8]","Port calls, storm window",Tropical storm <50 kt,173,0.7788226763299022,0.6548069038004789,0.9141983797310387
+"reference [-30,-8]","Port calls, storm window",Strong TS 50–63 kt,43,0.6900623153732426,0.5748850332720816,0.8498308125504846
+"reference [-30,-8]","Port calls, storm window",Hurricane ≥64 kt,52,0.4557870804026457,0.29852571970219594,0.6063278362574084
+no day pooling,"Total CO2, storm window",Tropical storm <50 kt,223,0.8170929605673559,0.7324988727871922,0.9051569167377836
+no day pooling,"Total CO2, storm window",Strong TS 50–63 kt,54,0.7216462714464433,0.6543270930478867,0.7609077350400928
+no day pooling,"Total CO2, storm window",Hurricane ≥64 kt,67,0.4645179624513564,0.35184392541768517,0.5819379860565771
+no day pooling,"Total CO2, after window",Tropical storm <50 kt,223,1.0385900852724672,0.9717875214381105,1.1056946431696557
+no day pooling,"Total CO2, after window",Strong TS 50–63 kt,54,1.0132920580469296,0.9608297733961529,1.0606232997362344
+no day pooling,"Total CO2, after window",Hurricane ≥64 kt,67,1.0672784785656952,0.9586907084927783,1.1814951645177707
+no day pooling,"Total vessel-hours, storm window",Tropical storm <50 kt,223,0.9378859076764965,0.8784004175068649,0.9933931036050827
+no day pooling,"Total vessel-hours, storm window",Strong TS 50–63 kt,54,0.913713023672712,0.8048021044735685,0.97100664685502
+no day pooling,"Total vessel-hours, storm window",Hurricane ≥64 kt,67,0.6483783375766089,0.4924892205279231,0.8016403059273564
+no day pooling,"Berth CO2, storm window",Tropical storm <50 kt,223,0.8794406341261085,0.7574062776459946,0.9952710459424006
+no day pooling,"Berth CO2, storm window",Strong TS 50–63 kt,54,0.9075177736372523,0.7241535966319518,1.0018309525456517
+no day pooling,"Berth CO2, storm window",Hurricane ≥64 kt,67,0.5189054517327334,0.37369012891209685,0.6879946629288873
+no day pooling,"Anchorage vessel-hours, after window",Tropical storm <50 kt,187,1.1441337921596964,0.9859591216816774,1.3626682727662356
+no day pooling,"Anchorage vessel-hours, after window",Strong TS 50–63 kt,46,1.0163016782305812,0.9035237056060509,1.1094055847814248
+no day pooling,"Anchorage vessel-hours, after window",Hurricane ≥64 kt,57,1.366323814451361,1.249752015715698,1.5077995444301566
+no day pooling,"Offshore-hold vessel-hours, after window",Tropical storm <50 kt,132,1.161948806526369,0.9498341387026915,1.4032757330829295
+no day pooling,"Offshore-hold vessel-hours, after window",Strong TS 50–63 kt,30,1.1483255043127958,1.020974478031603,1.4584591371177233
+no day pooling,"Offshore-hold vessel-hours, after window",Hurricane ≥64 kt,34,1.463236974793529,0.9882177699104049,2.0367403698375055
+no day pooling,"Open-water vessel-hours, storm window",Tropical storm <50 kt,173,0.827184628184865,0.707775945126493,0.9367673254331981
+no day pooling,"Open-water vessel-hours, storm window",Strong TS 50–63 kt,46,0.641893790184021,0.5707370756873792,0.7747581203072514
+no day pooling,"Open-water vessel-hours, storm window",Hurricane ≥64 kt,52,0.47904167109621437,0.3309449798018988,0.6532349000537154
+no day pooling,"Port calls, storm window",Tropical storm <50 kt,186,0.7766591552615772,0.6575803408399311,0.9155070767064523
+no day pooling,"Port calls, storm window",Strong TS 50–63 kt,49,0.6940812742629892,0.5759159330887632,0.866253081577734
+no day pooling,"Port calls, storm window",Hurricane ≥64 kt,57,0.44932786309595907,0.28779264661020687,0.6036882748193061
+pool ±7 days,"Total CO2, storm window",Tropical storm <50 kt,223,0.8243502878110323,0.7400502199266871,0.9127965695284137
+pool ±7 days,"Total CO2, storm window",Strong TS 50–63 kt,54,0.7438245024603914,0.6737513605069765,0.7800947365143697
+pool ±7 days,"Total CO2, storm window",Hurricane ≥64 kt,67,0.4754025767193455,0.35887171947614593,0.5977271206733696
+pool ±7 days,"Total CO2, after window",Tropical storm <50 kt,223,1.0379156175791606,0.9714062344006388,1.104136501141974
+pool ±7 days,"Total CO2, after window",Strong TS 50–63 kt,54,1.0201769160103678,0.9677933992512314,1.0697667418401822
+pool ±7 days,"Total CO2, after window",Hurricane ≥64 kt,67,1.0804236284729685,0.9785092068291434,1.1872556768749296
+pool ±7 days,"Total vessel-hours, storm window",Tropical storm <50 kt,223,0.9411840139488847,0.8835188416055083,0.9942233119223709
+pool ±7 days,"Total vessel-hours, storm window",Strong TS 50–63 kt,54,0.9170687736788106,0.8113216960153161,0.9718068312745688
+pool ±7 days,"Total vessel-hours, storm window",Hurricane ≥64 kt,67,0.6596351675677734,0.4976586343085107,0.819670384390381
+pool ±7 days,"Berth CO2, storm window",Tropical storm <50 kt,223,0.9004336992207758,0.7781377757550066,1.0182776339376527
+pool ±7 days,"Berth CO2, storm window",Strong TS 50–63 kt,54,0.9202644634772035,0.7389164184295105,1.0253471790038717
+pool ±7 days,"Berth CO2, storm window",Hurricane ≥64 kt,67,0.5201208768924543,0.37282428800601175,0.6839465803105349
+pool ±7 days,"Anchorage vessel-hours, after window",Tropical storm <50 kt,176,1.1498427754783664,0.9945488588192957,1.3680839107412888
+pool ±7 days,"Anchorage vessel-hours, after window",Strong TS 50–63 kt,42,1.0219761530566773,0.9205364072206595,1.1099614388943282
+pool ±7 days,"Anchorage vessel-hours, after window",Hurricane ≥64 kt,57,1.37428437201544,1.262050702505867,1.5271833333477236
+pool ±7 days,"Offshore-hold vessel-hours, after window",Tropical storm <50 kt,114,1.213005010797927,1.0066647612928672,1.4522940470402852
+pool ±7 days,"Offshore-hold vessel-hours, after window",Strong TS 50–63 kt,29,1.1417323733013742,1.0280271429379653,1.4249508053428617
+pool ±7 days,"Offshore-hold vessel-hours, after window",Hurricane ≥64 kt,33,1.4946030422716705,1.0333114649644923,2.093279132803358
+pool ±7 days,"Open-water vessel-hours, storm window",Tropical storm <50 kt,173,0.8280503912629007,0.7188592661631706,0.9229719280257662
+pool ±7 days,"Open-water vessel-hours, storm window",Strong TS 50–63 kt,46,0.6563260447073083,0.5730024561677556,0.7957828988249731
+pool ±7 days,"Open-water vessel-hours, storm window",Hurricane ≥64 kt,52,0.4986335059844115,0.33915946349022813,0.6798433640604504
+pool ±7 days,"Port calls, storm window",Tropical storm <50 kt,171,0.7708742284378968,0.6350477383589601,0.8973798396268902
+pool ±7 days,"Port calls, storm window",Strong TS 50–63 kt,41,0.687860838533774,0.5513939378209817,0.8832523780640733
+pool ±7 days,"Port calls, storm window",Hurricane ≥64 kt,51,0.4562026725481646,0.29466944881163354,0.6027894406654782
+mean not median,"Total CO2, storm window",Tropical storm <50 kt,223,0.8194565286106129,0.732355250209061,0.9079502465461244
+mean not median,"Total CO2, storm window",Strong TS 50–63 kt,54,0.7294217667174785,0.658744364728249,0.7705489282212553
+mean not median,"Total CO2, storm window",Hurricane ≥64 kt,67,0.47339670305857445,0.3570257019862362,0.592555168741723
+mean not median,"Total CO2, after window",Tropical storm <50 kt,223,1.0417121337034443,0.9762447462964546,1.106035484324159
+mean not median,"Total CO2, after window",Strong TS 50–63 kt,54,1.0164164553783406,0.9619637670265796,1.067176797799122
+mean not median,"Total CO2, after window",Hurricane ≥64 kt,67,1.075656351233687,0.9691959215320681,1.1890913514240702
+mean not median,"Total vessel-hours, storm window",Tropical storm <50 kt,223,0.9412847526990523,0.881537522557044,0.9950674992733934
+mean not median,"Total vessel-hours, storm window",Strong TS 50–63 kt,54,0.9097372483914694,0.7937116349704818,0.9749182908534748
+mean not median,"Total vessel-hours, storm window",Hurricane ≥64 kt,67,0.6585717222931817,0.496013633965717,0.8192544563946222
+mean not median,"Berth CO2, storm window",Tropical storm <50 kt,223,0.8751655888689649,0.7518290272453024,0.9900265644083198
+mean not median,"Berth CO2, storm window",Strong TS 50–63 kt,54,0.8898667185967387,0.7140592245356907,0.9876314132062286
+mean not median,"Berth CO2, storm window",Hurricane ≥64 kt,67,0.5098113760164484,0.36634400944061585,0.6718315077777263
+mean not median,"Anchorage vessel-hours, after window",Tropical storm <50 kt,189,1.0694076229186755,0.9139692883315335,1.2654322316354576
+mean not median,"Anchorage vessel-hours, after window",Strong TS 50–63 kt,47,0.9600480873780244,0.8583061607117337,1.0450783720345755
+mean not median,"Anchorage vessel-hours, after window",Hurricane ≥64 kt,59,1.332927688881193,1.215529536350442,1.4617293102103186
+mean not median,"Offshore-hold vessel-hours, after window",Tropical storm <50 kt,146,0.9477868978695356,0.7780062206620108,1.1296116108129934
+mean not median,"Offshore-hold vessel-hours, after window",Strong TS 50–63 kt,34,0.9320797915755137,0.7427961942368596,1.1230577291606563
+mean not median,"Offshore-hold vessel-hours, after window",Hurricane ≥64 kt,35,1.094297661056485,0.6318409519540021,1.5976915262442002
+mean not median,"Open-water vessel-hours, storm window",Tropical storm <50 kt,173,0.8156328759367047,0.7075664763389317,0.9119161091487457
+mean not median,"Open-water vessel-hours, storm window",Strong TS 50–63 kt,47,0.6343443213794303,0.5598751423490701,0.7678115217309339
+mean not median,"Open-water vessel-hours, storm window",Hurricane ≥64 kt,52,0.4827540479382344,0.328810184501718,0.6472420409358763
+mean not median,"Port calls, storm window",Tropical storm <50 kt,213,0.7485195800626113,0.6086556082432736,0.8762921822402672
+mean not median,"Port calls, storm window",Strong TS 50–63 kt,52,0.6603123480854041,0.5350650360730546,0.836665736011514
+mean not median,"Port calls, storm window",Hurricane ≥64 kt,63,0.44439674004112334,0.29077835848406736,0.5959470593450572
+exclusion 150 km,"Total CO2, storm window",Tropical storm <50 kt,249,0.8339033548531443,0.7525006441184651,0.9152152294028114
+exclusion 150 km,"Total CO2, storm window",Strong TS 50–63 kt,70,0.7366013014496035,0.6852902511715845,0.7637026898766377
+exclusion 150 km,"Total CO2, storm window",Hurricane ≥64 kt,82,0.46937036313057895,0.3719638173343804,0.5757403792792696
+exclusion 150 km,"Total CO2, after window",Tropical storm <50 kt,249,1.0391711128667291,0.9814895731536502,1.0966211571361042
+exclusion 150 km,"Total CO2, after window",Strong TS 50–63 kt,70,1.013042873131171,0.9718602527665857,1.0552748523877615
+exclusion 150 km,"Total CO2, after window",Hurricane ≥64 kt,82,1.079605037676944,0.988026544445934,1.1770222661536054
+exclusion 150 km,"Total vessel-hours, storm window",Tropical storm <50 kt,249,0.9427383389346848,0.8901007892084021,0.990035486730166
+exclusion 150 km,"Total vessel-hours, storm window",Strong TS 50–63 kt,70,0.9125729921950201,0.8188620624201093,0.9636560106747892
+exclusion 150 km,"Total vessel-hours, storm window",Hurricane ≥64 kt,82,0.6504437312335486,0.502373518848661,0.7902229408418108
+exclusion 150 km,"Berth CO2, storm window",Tropical storm <50 kt,249,0.8994674926791361,0.786452697074202,0.9990634498667357
+exclusion 150 km,"Berth CO2, storm window",Strong TS 50–63 kt,70,0.8676620618838876,0.6999708680237755,0.9904092422690421
+exclusion 150 km,"Berth CO2, storm window",Hurricane ≥64 kt,82,0.5168651955279807,0.3834815098158584,0.6508589856752075
+exclusion 150 km,"Anchorage vessel-hours, after window",Tropical storm <50 kt,202,1.156670753693708,1.0031166401954181,1.3640673670840113
+exclusion 150 km,"Anchorage vessel-hours, after window",Strong TS 50–63 kt,57,1.0157628138434271,0.9066572463343618,1.1354621665100602
+exclusion 150 km,"Anchorage vessel-hours, after window",Hurricane ≥64 kt,72,1.3788222777391381,1.247832871175977,1.5202885600112823
+exclusion 150 km,"Offshore-hold vessel-hours, after window",Tropical storm <50 kt,126,1.2089664423191708,1.0155548071974867,1.4348571809030326
+exclusion 150 km,"Offshore-hold vessel-hours, after window",Strong TS 50–63 kt,34,1.1797574497729053,0.9956233199445664,1.527191703366751
+exclusion 150 km,"Offshore-hold vessel-hours, after window",Hurricane ≥64 kt,38,1.7283375938212329,1.222923399591643,2.615333768655979
+exclusion 150 km,"Open-water vessel-hours, storm window",Tropical storm <50 kt,199,0.8395899616164867,0.7503683391886727,0.9270712489287674
+exclusion 150 km,"Open-water vessel-hours, storm window",Strong TS 50–63 kt,62,0.7068535713584339,0.5896505180111558,0.8505369974808261
+exclusion 150 km,"Open-water vessel-hours, storm window",Hurricane ≥64 kt,67,0.5024617935494654,0.36961616878287973,0.6488430055954223
+exclusion 150 km,"Port calls, storm window",Tropical storm <50 kt,195,0.7913054301810787,0.6582207630638994,0.9172544461882531
+exclusion 150 km,"Port calls, storm window",Strong TS 50–63 kt,57,0.7144279888594283,0.5721498008284124,0.8905185188277446
+exclusion 150 km,"Port calls, storm window",Hurricane ≥64 kt,67,0.4574451031347073,0.3170819958333245,0.5772111739729157
+exclusion 400 km,"Total CO2, storm window",Tropical storm <50 kt,181,0.8205841839353892,0.7276120336141034,0.9226136764728643
+exclusion 400 km,"Total CO2, storm window",Strong TS 50–63 kt,44,0.7645987439685854,0.6901201744413287,0.8207285644948237
+exclusion 400 km,"Total CO2, storm window",Hurricane ≥64 kt,53,0.5089035747581515,0.3802724401052553,0.6370510236271144
+exclusion 400 km,"Total CO2, after window",Tropical storm <50 kt,181,1.0338135998362648,0.9437790036016726,1.1056997604489063
+exclusion 400 km,"Total CO2, after window",Strong TS 50–63 kt,44,1.0236056568121934,0.9420859682140595,1.092263676962246
+exclusion 400 km,"Total CO2, after window",Hurricane ≥64 kt,53,1.0670102791550309,0.9407914359790116,1.1881954408257016
+exclusion 400 km,"Total vessel-hours, storm window",Tropical storm <50 kt,181,0.9534610772024754,0.8862497398228671,1.0185065427450408
+exclusion 400 km,"Total vessel-hours, storm window",Strong TS 50–63 kt,44,0.9747121355774686,0.8162727042121176,1.0902930857095763
+exclusion 400 km,"Total vessel-hours, storm window",Hurricane ≥64 kt,53,0.6592012642307667,0.47534665025194694,0.8420514951881342
+exclusion 400 km,"Berth CO2, storm window",Tropical storm <50 kt,181,0.8859033906510448,0.7605041968640173,1.0093705262806194
+exclusion 400 km,"Berth CO2, storm window",Strong TS 50–63 kt,44,0.946147470463476,0.7515203093066551,1.0572512038361266
+exclusion 400 km,"Berth CO2, storm window",Hurricane ≥64 kt,53,0.5124245510904869,0.3455106320836015,0.7373063159786372
+exclusion 400 km,"Anchorage vessel-hours, after window",Tropical storm <50 kt,150,1.198093567426228,0.9994165970016275,1.4433649684800547
+exclusion 400 km,"Anchorage vessel-hours, after window",Strong TS 50–63 kt,35,1.023891072415175,0.9101529517243051,1.192082411237755
+exclusion 400 km,"Anchorage vessel-hours, after window",Hurricane ≥64 kt,48,1.3619499663386947,1.22543900135759,1.5021624480188807
+exclusion 400 km,"Offshore-hold vessel-hours, after window",Tropical storm <50 kt,93,1.170534355885945,0.908050176179255,1.457813212444073
+exclusion 400 km,"Offshore-hold vessel-hours, after window",Strong TS 50–63 kt,25,1.1591478753823077,1.0371889997044805,1.422287123686177
+exclusion 400 km,"Offshore-hold vessel-hours, after window",Hurricane ≥64 kt,27,1.4430601371980736,0.9548207058260182,1.9643958592641793
+exclusion 400 km,"Open-water vessel-hours, storm window",Tropical storm <50 kt,132,0.8262368495688485,0.6971346195940739,0.9515758076705342
+exclusion 400 km,"Open-water vessel-hours, storm window",Strong TS 50–63 kt,36,0.669266032653291,0.5506722052175365,0.8603778687395556
+exclusion 400 km,"Open-water vessel-hours, storm window",Hurricane ≥64 kt,38,0.4929617503808365,0.35367563510417527,0.6844393034810446
+exclusion 400 km,"Port calls, storm window",Tropical storm <50 kt,131,0.7398176054498289,0.5888029295321353,0.888028997844318
+exclusion 400 km,"Port calls, storm window",Strong TS 50–63 kt,33,0.7659729758371017,0.6425390260751007,0.8836483553640672
+exclusion 400 km,"Port calls, storm window",Hurricane ≥64 kt,41,0.42894362502856637,0.25029944510876173,0.5840695462366441
+≥4 baseline years,"Total CO2, storm window",Tropical storm <50 kt,200,0.817192349809531,0.7296987663697074,0.9101345064803759
+≥4 baseline years,"Total CO2, storm window",Strong TS 50–63 kt,47,0.7468339814388157,0.681089484872754,0.788003897267769
+≥4 baseline years,"Total CO2, storm window",Hurricane ≥64 kt,53,0.5033242641656411,0.370313442232089,0.6269700890930562
+≥4 baseline years,"Total CO2, after window",Tropical storm <50 kt,200,1.0349980783223525,0.9557196007613912,1.1097631294080506
+≥4 baseline years,"Total CO2, after window",Strong TS 50–63 kt,47,1.015587572418862,0.9472071599049339,1.0773913644941222
+≥4 baseline years,"Total CO2, after window",Hurricane ≥64 kt,53,1.0811626585132716,0.9525739176466753,1.2045950520780724
+≥4 baseline years,"Total vessel-hours, storm window",Tropical storm <50 kt,200,0.9401721685672643,0.8797156055752792,0.9990133580030954
+≥4 baseline years,"Total vessel-hours, storm window",Strong TS 50–63 kt,47,0.9256152377108257,0.8064937785377276,0.9810891073824998
+≥4 baseline years,"Total vessel-hours, storm window",Hurricane ≥64 kt,53,0.6514147385836818,0.4533957627810978,0.8275752050917297
+≥4 baseline years,"Berth CO2, storm window",Tropical storm <50 kt,200,0.8858507461560204,0.77045194835545,0.9980010516495781
+≥4 baseline years,"Berth CO2, storm window",Strong TS 50–63 kt,47,0.9219461681161519,0.7009662494892096,1.02814292112627
+≥4 baseline years,"Berth CO2, storm window",Hurricane ≥64 kt,53,0.49781004717313554,0.3346628584251361,0.6966768380181904
+≥4 baseline years,"Anchorage vessel-hours, after window",Tropical storm <50 kt,163,1.1437844505948704,0.982957303532342,1.3554866908267718
+≥4 baseline years,"Anchorage vessel-hours, after window",Strong TS 50–63 kt,37,1.0217718315371334,0.9184094556452653,1.1127042001533398
+≥4 baseline years,"Anchorage vessel-hours, after window",Hurricane ≥64 kt,48,1.3565635933259697,1.2308383678125463,1.4977146642589296
+≥4 baseline years,"Offshore-hold vessel-hours, after window",Tropical storm <50 kt,108,1.2046495235364512,0.9886453825680148,1.4710645978111603
+≥4 baseline years,"Offshore-hold vessel-hours, after window",Strong TS 50–63 kt,26,1.1462771954017659,1.018929107660387,1.4067870216759772
+≥4 baseline years,"Offshore-hold vessel-hours, after window",Hurricane ≥64 kt,29,1.5071835703903982,0.9995456120411215,2.0892047362919546
+≥4 baseline years,"Open-water vessel-hours, storm window",Tropical storm <50 kt,150,0.8174609092648043,0.69611973864475,0.9309654108530946
+≥4 baseline years,"Open-water vessel-hours, storm window",Strong TS 50–63 kt,39,0.661423945433005,0.5657463942576086,0.8526895902634769
+≥4 baseline years,"Open-water vessel-hours, storm window",Hurricane ≥64 kt,38,0.4922988083283333,0.3545372444873302,0.6738239841829939
+≥4 baseline years,"Port calls, storm window",Tropical storm <50 kt,156,0.7584443685724441,0.6218205501015929,0.8923947661017235
+≥4 baseline years,"Port calls, storm window",Strong TS 50–63 kt,37,0.683592708822271,0.5381989692308978,0.884187587409924
+≥4 baseline years,"Port calls, storm window",Hurricane ≥64 kt,38,0.41563515618326424,0.2171973349210793,0.5867700774852128
+same-year flat (package style),"Total CO2, storm window",Tropical storm <50 kt,223,0.8018897207674675,0.6974701696337384,0.9029706615979564
+same-year flat (package style),"Total CO2, storm window",Strong TS 50–63 kt,54,0.7532987369784824,0.6717244446062214,0.7973640668507358
+same-year flat (package style),"Total CO2, storm window",Hurricane ≥64 kt,67,0.45511189903319843,0.3467855599296331,0.5697346187090064
+same-year flat (package style),"Total CO2, after window",Tropical storm <50 kt,223,1.0190650975171711,0.9588592106631008,1.0666764602438863
+same-year flat (package style),"Total CO2, after window",Strong TS 50–63 kt,54,1.0306269968351192,0.9854597451823212,1.0675387391071225
+same-year flat (package style),"Total CO2, after window",Hurricane ≥64 kt,67,1.025590427873512,0.929109243853769,1.1223981430105552
+same-year flat (package style),"Total vessel-hours, storm window",Tropical storm <50 kt,223,0.9273416490623118,0.8504282710249381,0.986829595723256
+same-year flat (package style),"Total vessel-hours, storm window",Strong TS 50–63 kt,54,0.9262804873508786,0.794845801488377,0.9844198318796555
+same-year flat (package style),"Total vessel-hours, storm window",Hurricane ≥64 kt,67,0.6335321086093832,0.47453248707544826,0.792711156817593
+same-year flat (package style),"Berth CO2, storm window",Tropical storm <50 kt,223,0.8800429032718373,0.7490481370602609,0.9937425744751037
+same-year flat (package style),"Berth CO2, storm window",Strong TS 50–63 kt,54,0.9112660969845995,0.7239740527119196,1.0179630071336052
+same-year flat (package style),"Berth CO2, storm window",Hurricane ≥64 kt,67,0.4927184819102839,0.35738363429997505,0.630932088361005
+same-year flat (package style),"Anchorage vessel-hours, after window",Tropical storm <50 kt,193,1.1004176595172768,0.9550220257661267,1.2676726034770907
+same-year flat (package style),"Anchorage vessel-hours, after window",Strong TS 50–63 kt,47,1.0229553520757562,0.8858695938161927,1.128702112146703
+same-year flat (package style),"Anchorage vessel-hours, after window",Hurricane ≥64 kt,59,1.2393224751749046,1.159136567328648,1.3188073516526668
+same-year flat (package style),"Offshore-hold vessel-hours, after window",Tropical storm <50 kt,149,1.0491819510934537,0.9012562116265488,1.191248218246686
+same-year flat (package style),"Offshore-hold vessel-hours, after window",Strong TS 50–63 kt,35,1.0830516192495074,0.9452986293463428,1.2467159733228965
+same-year flat (package style),"Offshore-hold vessel-hours, after window",Hurricane ≥64 kt,35,1.3382071270527252,0.8385196031197322,1.7761365102023607
+same-year flat (package style),"Open-water vessel-hours, storm window",Tropical storm <50 kt,176,0.80122161208246,0.7130675374057113,0.8826215862271144
+same-year flat (package style),"Open-water vessel-hours, storm window",Strong TS 50–63 kt,47,0.6437302697733746,0.5677645997128538,0.778925967608489
+same-year flat (package style),"Open-water vessel-hours, storm window",Hurricane ≥64 kt,56,0.46023857105953403,0.3138987370775801,0.6191966475914932
+same-year flat (package style),"Port calls, storm window",Tropical storm <50 kt,217,0.7435705625918952,0.5988930878032597,0.8731180319752069
+same-year flat (package style),"Port calls, storm window",Strong TS 50–63 kt,52,0.665819298803093,0.5394155114209938,0.852626030290351
+same-year flat (package style),"Port calls, storm window",Hurricane ≥64 kt,67,0.447934845840605,0.290197060225311,0.5881761801200569

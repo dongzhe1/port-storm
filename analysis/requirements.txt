@@ -1,0 +1,8 @@
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+statsmodels>=0.14
+scipy>=1.11
+basemap
+basemap-data-hires
+openpyxl>=3.1

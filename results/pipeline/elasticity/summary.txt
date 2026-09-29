@@ -1,0 +1,62 @@
+Calendar   : 3,285 days processed by both panels; 2 day(s) only one of them has, excluded (first 2017-06-26)
+Population : emissions from cargo, tanker only
+Ports      : 39 pass >=5.0 vessels/day, 73 pass >=10.0 t co2_ton/day, 38 pass both
+Gap panel  : 124,780 port-days, 2015-2023
+Scored     : 676 windows, 26 ports, 85 cyclones (676 usable for the log fit)
+
+Elasticity to vessels present, log-log OLS, 95% CI by port bootstrap
+  CO2 per day              b =  1.279   [ 1.125,  1.429]   n = 669
+    hours per vessel       b =  0.236   [ 0.066,  0.387]   n = 669
+    CO2 per vessel-hour    b =  0.043   [-0.051,  0.144]   n = 669
+  identity check: 1 + b_H + b_I = 1.279 vs b_CO2 = 1.279
+
+Gap adjustment, on the 676 of 676 windows with gap coverage
+  excess discarded time: median -0.510%, 90th pct +2.090%, max +32.099%
+  b_CO2 raw           1.279   [ 1.124,  1.427]
+  b_CO2 gap-adjusted  1.276   [ 1.127,  1.411]
+
+Median window ratio by distance to the eye
+    0-100 km  n= 127   CO2 0.773 = N 0.787 x H 1.014 x I 0.972
+  100-200 km  n= 146   CO2 0.829 = N 0.838 x H 1.008 x I 0.986
+  200-300 km  n= 117   CO2 0.908 = N 0.956 x H 0.993 x I 0.960
+  300-400 km  n= 141   CO2 0.988 = N 0.967 x H 1.019 x I 0.979
+  400-500 km  n= 145   CO2 1.016 = N 0.986 x H 1.002 x I 1.001
+
+Median window ratio by category [sshs_max: peak while this port was exposed]
+  cat  -4     n=  59   CO2 1.069 = N 1.043 x H 1.007 x I 0.978
+  cat  -3     n=  49   CO2 0.855 = N 0.915 x H 0.972 x I 0.970
+  cat  -1     n=  46   CO2 0.984 = N 0.996 x H 1.006 x I 0.965
+  cat   0     n= 304   CO2 0.952 = N 0.950 x H 1.011 x I 0.986
+  cat   1     n=  98   CO2 0.893 = N 0.877 x H 1.053 x I 1.019
+  cat   2     n=  14   CO2 0.746 = N 0.760 x H 1.075 x I 0.941
+  cat   3     n=  34   CO2 0.644 = N 0.700 x H 0.989 x I 0.887
+  cat   4     n=  48   CO2 0.309 = N 0.505 x H 0.933 x I 0.957
+  cat   5     n=  19   CO2 0.746 = N 0.798 x H 0.946 x I 0.991
+
+Median window ratio by category [sshs_storm_lifetime: storm's peak anywhere -- CyPort's definition]
+  cat  -1     n=  12   CO2 1.009 = N 0.980 x H 1.024 x I 1.035
+  cat   0     n= 334   CO2 0.970 = N 0.973 x H 1.006 x I 0.983
+  cat   1     n= 123   CO2 0.870 = N 0.848 x H 1.055 x I 1.003
+  cat   2     n=  18   CO2 0.886 = N 0.900 x H 0.992 x I 0.958
+  cat   3     n=  27   CO2 1.008 = N 0.945 x H 1.017 x I 0.963
+  cat   4     n=  93   CO2 0.753 = N 0.848 x H 0.988 x I 0.947
+  cat   5     n=  58   CO2 0.600 = N 0.736 x H 0.980 x I 1.013
+
+CO2 shortfall over all windows
+  measured                   101,246 t   (suppressed 135,058 t, raised 33,812 t elsewhere in the same windows)
+  traffic-scaled, b=1         94,352 t
+  the traffic route understates it by 7% (1.07x)
+
+Placebo: the same estimate on shifted windows
+     shift      n    b_CO2    CO2 shortfall   <=200km median r_CO2
+      REAL    676    1.279        101,246 t                  0.816
+       -2y    583    1.070          2,774 t                  0.998
+       -1y    646    1.197        -12,225 t                  0.989
+      -60d    668    1.041         -1,546 t                  0.988
+      -30d    676    1.066         -8,106 t                  0.992
+      +30d    674    1.052        -28,828 t                  1.035
+      +60d    666    1.121         -5,661 t                  1.000
+       +1y    628    1.008        -11,402 t                  0.985
+       +2y    607    0.948         -3,325 t                  1.009
+  real b 1.279 is ABOVE every placebo [0.948, 1.197] over 8 shifts
+

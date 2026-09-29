@@ -1,0 +1,3 @@
+tier,vclass,window,intensity,n,main_per_hour,main_lo,main_hi
+offshore,tanker,10 days after,Hurricane ≥64 kt,52,1.0147960211699496,0.9347367402087111,1.0863364146176768
+offshore,cargo,10 days after,Hurricane ≥64 kt,52,0.9775423806776177,0.9259017916062334,1.0261326417129308

@@ -1,0 +1,345 @@
+Event,Cyclone,IBTrACS ID,Season,Port,Port type,Coast,Class,Wind at closest approach (kt),Saffir–Simpson category,Closest distance (km),Landfall,Storm surge (m),Rainfall (mm),Storm window (days),Baseline years
+1,Ana,2015126N27281,2015,"Morehead City, NC",Cargo,Atlantic,Tropical storm (<50 kt),30,0,143.3,Yes,0.72,80.8,7,5
+2,Ana,2015126N27281,2015,"Port of Charleston, SC",Cargo,Atlantic,Tropical storm (<50 kt),40,0,137.3,Yes,1.14,23.4,6,5
+3,Ana,2015126N27281,2015,"Virginia, VA, Port of",Cargo,Atlantic,Tropical storm (<50 kt),30,0,12.4,Yes,0.46,7.9,4,5
+4,Ana,2015126N27281,2015,"Wilmington, NC",Cargo,Atlantic,Tropical storm (<50 kt),30,0,73.0,Yes,1.02,105.0,7,5
+5,Bill,2015167N27266,2015,"Calhoun Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),45,0,26.5,Yes,1.03,67.6,2,7
+6,Bill,2015167N27266,2015,"Corpus Christi, TX",Energy,Gulf,Strong tropical storm (50–63 kt),50,0,89.7,Yes,,7.6,2,7
+7,Bill,2015167N27266,2015,"Galveston, TX",Energy,Gulf,Tropical storm (<50 kt),48,0,176.2,Yes,,31.5,2,5
+8,Bill,2015167N27266,2015,"Houston Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),35,0,156.1,Yes,1.04,20.3,3,6
+9,Bill,2015167N27266,2015,"Port Freeport, TX",Energy,Gulf,Strong tropical storm (50–63 kt),50,0,135.6,Yes,,49.0,2,6
+10,Bill,2015167N27266,2015,"Texas City, TX",Energy,Gulf,Strong tropical storm (50–63 kt),50,0,193.7,Yes,0.82,31.5,2,6
+11,Bonnie,2016148N27288,2016,"Morehead City, NC",Cargo,Atlantic,Tropical storm (<50 kt),23,0,93.3,Yes,0.8,61.2,7,3
+12,Bonnie,2016148N27288,2016,"Port of Brunswick, GA",Cargo,Atlantic,Tropical storm (<50 kt),38,0,199.3,Yes,,0.0,5,5
+13,Bonnie,2016148N27288,2016,"Port of Charleston, SC",Cargo,Atlantic,Tropical storm (<50 kt),25,0,9.2,Yes,1.21,133.9,6,4
+14,Bonnie,2016148N27288,2016,"Port of Savannah, GA",Cargo,Atlantic,Tropical storm (<50 kt),25,0,102.2,Yes,1.44,43.0,5,5
+15,Bonnie,2016148N27288,2016,"Wilmington, NC",Cargo,Atlantic,Tropical storm (<50 kt),23,0,90.1,Yes,0.88,43.2,7,4
+16,Colin,2016158N22272,2016,"Jacksonville, FL",Cargo,Atlantic,Tropical storm (<50 kt),45,0,58.3,Yes,0.46,72.2,2,6
+17,Colin,2016158N22272,2016,"Morehead City, NC",Cargo,Atlantic,Tropical storm (<50 kt),48,0,52.4,No,0.77,46.7,1,3
+18,Colin,2016158N22272,2016,"Panama City Port Authority, FL",Service,Gulf,Tropical storm (<50 kt),45,0,158.8,Yes,0.6,168.4,2,4
+19,Colin,2016158N22272,2016,"Port of Brunswick, GA",Cargo,Atlantic,Tropical storm (<50 kt),45,0,76.6,Yes,,68.3,2,5
+20,Colin,2016158N22272,2016,"Port of Charleston, SC",Cargo,Atlantic,Tropical storm (<50 kt),45,0,132.2,Yes,1.14,12.0,1,4
+21,Colin,2016158N22272,2016,"Port of Savannah, GA",Cargo,Atlantic,Tropical storm (<50 kt),45,0,62.8,Yes,1.44,11.4,1,5
+22,Colin,2016158N22272,2016,"Wilmington, NC",Cargo,Atlantic,Tropical storm (<50 kt),45,0,125.8,No,0.84,24.1,1,4
+23,Hermine,2016242N24279,2016,"Boston, MA",Mixed,Atlantic,Tropical storm (<50 kt),20,-4,106.8,Yes,1.53,5.9,4,5
+24,Hermine,2016242N24279,2016,"New York, NY & NJ",Mixed,Atlantic,Tropical storm (<50 kt),40,-4,199.2,Yes,0.95,0.0,4,5
+25,Hermine,2016242N24279,2016,"Port Jefferson, NY",Cargo,Atlantic,Tropical storm (<50 kt),40,-4,176.0,Yes,1.4,15.5,5,5
+26,Hermine,2016242N24279,2016,"Port of Providence, RI",Mixed,Atlantic,Tropical storm (<50 kt),23,-4,113.4,Yes,0.91,4.6,4,5
+27,Julia,2016257N27280,2016,"Canaveral Port District, FL",Cargo,Atlantic,Tropical storm (<50 kt),40,0,26.8,Yes,0.94,0.0,7,4
+28,Julia,2016257N27280,2016,"Manatee County Port, FL",Mixed,Gulf,Tropical storm (<50 kt),35,0,173.2,Yes,0.4,4.6,2,3
+29,Julia,2016257N27280,2016,"Port Everglades, FL",Mixed,Atlantic,Tropical storm (<50 kt),30,0,130.2,Yes,,0.0,2,3
+30,Julia,2016257N27280,2016,"Port of Palm Beach District, FL",Mixed,Atlantic,Tropical storm (<50 kt),30,0,73.7,Yes,0.44,,2,3
+31,Julia,2016257N27280,2016,"PortMiami, FL",Mixed,Atlantic,Tropical storm (<50 kt),30,0,190.3,Yes,0.37,3.1,2,3
+32,Matthew,2016273N13300,2016,"Canaveral Port District, FL",Cargo,Atlantic,Hurricane (≥64 kt),105,4,58.7,No,0.8,0.0,3,4
+33,Matthew,2016273N13300,2016,"Port Everglades, FL",Mixed,Atlantic,Hurricane (≥64 kt),113,4,156.8,No,,16.5,2,3
+34,Matthew,2016273N13300,2016,"Port of Palm Beach District, FL",Mixed,Atlantic,Hurricane (≥64 kt),113,4,122.2,No,0.63,,3,3
+35,Matthew,2016273N13300,2016,"PortMiami, FL",Mixed,Atlantic,Hurricane (≥64 kt),118,4,191.5,No,0.38,26.2,2,3
+36,Cindy,2017171N24271,2017,"Beaumont, TX",Energy,Gulf,Tropical storm (<50 kt),43,0,42.3,Yes,0.42,0.0,3,7
+37,Cindy,2017171N24271,2017,"Galveston, TX",Energy,Gulf,Tropical storm (<50 kt),45,0,123.1,Yes,0.71,36.8,3,5
+38,Cindy,2017171N24271,2017,"Houston Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),43,0,160.9,Yes,0.46,6.4,3,6
+39,Cindy,2017171N24271,2017,"Lake Charles Harbor District, LA",Energy,Gulf,Tropical storm (<50 kt),45,0,41.1,Yes,0.84,70.9,3,5
+40,Cindy,2017171N24271,2017,"Orange County Nav District, TX",Energy,Gulf,Tropical storm (<50 kt),43,0,21.4,Yes,0.42,45.5,3,7
+41,Cindy,2017171N24271,2017,"Port Arthur, TX",Energy,Gulf,Tropical storm (<50 kt),45,0,24.9,Yes,0.45,12.7,3,7
+42,Cindy,2017171N24271,2017,"Port Freeport, TX",Energy,Gulf,Tropical storm (<50 kt),45,0,186.2,Yes,0.76,11.7,3,6
+43,Cindy,2017171N24271,2017,"Port of Iberia District, LA",Service,Gulf,Tropical storm (<50 kt),45,0,179.4,Yes,1.0,8.9,4,5
+44,Cindy,2017171N24271,2017,"Sabine Pass Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),45,0,41.4,Yes,0.45,12.7,3,7
+45,Cindy,2017171N24271,2017,"Texas City, TX",Energy,Gulf,Tropical storm (<50 kt),45,0,121.9,Yes,0.6,36.8,3,6
+46,Emily,2017212N28275,2017,"Canaveral Port District, FL",Cargo,Atlantic,Tropical storm (<50 kt),30,0,80.0,Yes,0.74,0.0,4,4
+47,Emily,2017212N28275,2017,"Port Everglades, FL",Mixed,Atlantic,Tropical storm (<50 kt),30,0,164.6,Yes,,7.4,2,3
+48,Emily,2017212N28275,2017,"Port of Palm Beach District, FL",Mixed,Atlantic,Tropical storm (<50 kt),30,0,105.6,Yes,0.48,,3,3
+49,Harvey,2017228N14314,2017,"Beaumont, TX",Energy,Gulf,Tropical storm (<50 kt),40,4,63.9,Yes,0.89,0.0,7,5
+50,Harvey,2017228N14314,2017,"Brownsville, TX",Energy,Gulf,Hurricane (≥64 kt),100,4,151.2,Yes,0.47,4.1,7,3
+51,Harvey,2017228N14314,2017,"Calhoun Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),40,4,5.0,Yes,2.03,64.0,7,4
+52,Harvey,2017228N14314,2017,"Corpus Christi, TX",Energy,Gulf,Hurricane (≥64 kt),105,4,57.3,Yes,,73.8,7,4
+53,Harvey,2017228N14314,2017,"Galveston, TX",Energy,Gulf,Tropical storm (<50 kt),45,4,103.0,Yes,0.81,587.3,7,5
+54,Harvey,2017228N14314,2017,"Houston Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),40,4,165.9,Yes,3.24,,7,5
+55,Harvey,2017228N14314,2017,"Lake Charles Harbor District, LA",Energy,Gulf,Tropical storm (<50 kt),40,4,19.2,Yes,0.82,272.7,7,5
+56,Harvey,2017228N14314,2017,"Orange County Nav District, TX",Energy,Gulf,Tropical storm (<50 kt),40,4,45.6,Yes,0.89,873.8,7,5
+57,Harvey,2017228N14314,2017,"Port Arthur, TX",Energy,Gulf,Tropical storm (<50 kt),40,4,41.7,Yes,0.32,1208.1,7,5
+58,Harvey,2017228N14314,2017,"Port Freeport, TX",Energy,Gulf,Tropical storm (<50 kt),40,4,90.9,Yes,0.9,470.2,7,5
+59,Harvey,2017228N14314,2017,"Port of Greater Baton Rouge, LA",Energy,Gulf,Tropical storm (<50 kt),30,0,156.0,Yes,0.67,77.8,5,4
+60,Harvey,2017228N14314,2017,"Port of Iberia District, LA",Service,Gulf,Tropical storm (<50 kt),38,0,159.2,Yes,0.95,174.6,4,5
+61,Harvey,2017228N14314,2017,"Sabine Pass Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),40,4,60.3,Yes,0.32,1208.1,7,5
+62,Harvey,2017228N14314,2017,"Texas City, TX",Energy,Gulf,Tropical storm (<50 kt),45,4,120.3,Yes,0.97,587.3,7,5
+63,Irma,2017242N16333,2017,"Canaveral Port District, FL",Cargo,Atlantic,Hurricane (≥64 kt),65,4,148.7,Yes,1.64,0.0,2,4
+64,Irma,2017242N16333,2017,"Manatee County Port, FL",Mixed,Gulf,Hurricane (≥64 kt),73,4,45.2,Yes,0.45,148.4,3,3
+65,Irma,2017242N16333,2017,"Port Everglades, FL",Mixed,Atlantic,Hurricane (≥64 kt),93,4,124.3,Yes,,104.9,3,3
+66,Irma,2017242N16333,2017,"Port of Palm Beach District, FL",Mixed,Atlantic,Hurricane (≥64 kt),80,4,120.5,Yes,0.86,,3,3
+67,Irma,2017242N16333,2017,"PortMiami, FL",Mixed,Atlantic,Hurricane (≥64 kt),100,5,120.5,Yes,1.26,110.0,3,3
+68,Nate,2017277N11279,2017,"Greater Lafourche Port, LA",Service,Gulf,Hurricane (≥64 kt),75,1,104.1,Yes,0.43,7.1,2,4
+69,Nate,2017277N11279,2017,"Mobile, AL",Mixed,Gulf,Tropical storm (<50 kt),48,1,70.4,Yes,1.53,124.7,2,5
+70,Nate,2017277N11279,2017,"New Orleans, LA",Energy,Gulf,Hurricane (≥64 kt),69,1,80.1,Yes,0.52,18.3,2,4
+71,Nate,2017277N11279,2017,"Plaquemines Port District, LA",Mixed,Gulf,Hurricane (≥64 kt),75,1,41.6,Yes,0.74,,2,4
+72,Nate,2017277N11279,2017,"Port of Pascagoula, MS",Energy,Gulf,Strong tropical storm (50–63 kt),60,1,26.9,Yes,1.74,115.8,2,4
+73,Nate,2017277N11279,2017,"South Louisiana, LA, Port of",Energy,Gulf,Hurricane (≥64 kt),69,1,126.7,Yes,0.09,1.0,2,4
+74,Nate,2017277N11279,2017,"Terrebonne Parish Port, LA",Service,Gulf,Hurricane (≥64 kt),75,1,161.1,Yes,0.38,10.4,2,5
+75,Alberto,2018146N19273,2018,"Mobile, AL",Mixed,Gulf,Tropical storm (<50 kt),30,0,190.0,Yes,0.5,0.0,3,6
+76,Alberto,2018146N19273,2018,"Panama City Port Authority, FL",Service,Gulf,Tropical storm (<50 kt),40,0,35.9,Yes,0.55,6.6,3,4
+77,Gordon,2018246N22283,2018,"Mobile, AL",Mixed,Gulf,Strong tropical storm (50–63 kt),60,0,48.4,Yes,0.84,70.9,3,5
+78,Gordon,2018246N22283,2018,"New Orleans, LA",Energy,Gulf,Tropical storm (<50 kt),45,0,141.5,Yes,0.47,6.9,3,4
+79,Gordon,2018246N22283,2018,"Plaquemines Port District, LA",Mixed,Gulf,Strong tropical storm (50–63 kt),60,0,147.6,Yes,0.4,,3,4
+80,Gordon,2018246N22283,2018,"Port Everglades, FL",Mixed,Atlantic,Tropical storm (<50 kt),47,0,112.0,Yes,0.41,55.1,3,3
+81,Gordon,2018246N22283,2018,"Port of Palm Beach District, FL",Mixed,Atlantic,Tropical storm (<50 kt),47,0,160.0,Yes,0.53,8.1,2,3
+82,Gordon,2018246N22283,2018,"Port of Pascagoula, MS",Energy,Gulf,Strong tropical storm (50–63 kt),60,0,13.7,Yes,0.55,0.0,3,4
+83,Gordon,2018246N22283,2018,"South Louisiana, LA, Port of",Energy,Gulf,Tropical storm (<50 kt),45,0,182.5,Yes,0.1,29.7,3,4
+84,Michael,2018280N18273,2018,"Virginia, VA, Port of",Cargo,Atlantic,Strong tropical storm (50–63 kt),55,0,18.3,Yes,0.79,19.6,2,3
+85,Barry,2019192N29274,2019,"Beaumont, TX",Energy,Gulf,Tropical storm (<50 kt),45,1,130.5,Yes,0.41,0.0,4,6
+86,Barry,2019192N29274,2019,"Greater Lafourche Port, LA",Service,Gulf,Strong tropical storm (50–63 kt),58,1,112.5,Yes,0.67,132.1,5,6
+87,Barry,2019192N29274,2019,"Lake Charles Harbor District, LA",Energy,Gulf,Strong tropical storm (50–63 kt),50,1,70.5,Yes,0.54,34.8,5,5
+88,Barry,2019192N29274,2019,"New Orleans, LA",Energy,Gulf,Strong tropical storm (50–63 kt),60,1,193.6,Yes,0.76,93.3,6,6
+89,Barry,2019192N29274,2019,"Orange County Nav District, TX",Energy,Gulf,Tropical storm (<50 kt),45,1,107.0,Yes,0.41,36.8,4,6
+90,Barry,2019192N29274,2019,"Plaquemines Port District, LA",Mixed,Gulf,Strong tropical storm (50–63 kt),50,1,158.7,Yes,0.45,,5,6
+91,Barry,2019192N29274,2019,"Port Arthur, TX",Energy,Gulf,Strong tropical storm (50–63 kt),50,1,122.4,Yes,0.35,117.1,4,6
+92,Barry,2019192N29274,2019,"Port of Greater Baton Rouge, LA",Energy,Gulf,Strong tropical storm (50–63 kt),60,1,122.2,Yes,0.9,112.1,6,5
+93,Barry,2019192N29274,2019,"Port of Iberia District, LA",Service,Gulf,Hurricane (≥64 kt),65,1,42.6,Yes,1.83,23.5,6,5
+94,Barry,2019192N29274,2019,"Sabine Pass Port Authority, TX",Energy,Gulf,Strong tropical storm (50–63 kt),50,1,148.1,Yes,0.35,117.1,4,6
+95,Barry,2019192N29274,2019,"South Louisiana, LA, Port of",Energy,Gulf,Strong tropical storm (50–63 kt),63,1,154.2,Yes,0.35,2.8,6,6
+96,Barry,2019192N29274,2019,"Terrebonne Parish Port, LA",Service,Gulf,Strong tropical storm (50–63 kt),60,1,80.7,Yes,1.83,31.2,6,6
+97,Dorian,2019236N10314,2019,"Canaveral Port District, FL",Cargo,Atlantic,Hurricane (≥64 kt),90,5,149.3,No,1.08,0.0,5,4
+98,Dorian,2019236N10314,2019,"Port of Palm Beach District, FL",Mixed,Atlantic,Hurricane (≥64 kt),120,5,199.2,No,0.94,3.3,5,3
+99,Fernand,2019246N24266,2019,"Brownsville, TX",Energy,Gulf,Tropical storm (<50 kt),25,0,189.2,Yes,0.36,67.6,3,3
+100,Imelda,2019261N28264,2019,"Beaumont, TX",Energy,Gulf,Tropical storm (<50 kt),30,0,102.5,Yes,0.32,0.0,3,5
+101,Imelda,2019261N28264,2019,"Calhoun Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),30,0,89.4,Yes,0.21,6.1,3,4
+102,Imelda,2019261N28264,2019,"Corpus Christi, TX",Energy,Gulf,Tropical storm (<50 kt),30,0,185.5,Yes,,0.0,3,4
+103,Imelda,2019261N28264,2019,"Galveston, TX",Energy,Gulf,Tropical storm (<50 kt),40,0,59.3,Yes,0.3,446.0,3,5
+104,Imelda,2019261N28264,2019,"Houston Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),30,0,20.6,Yes,0.9,209.8,3,5
+105,Imelda,2019261N28264,2019,"Lake Charles Harbor District, LA",Energy,Gulf,Tropical storm (<50 kt),30,0,178.4,Yes,0.28,94.8,3,5
+106,Imelda,2019261N28264,2019,"Orange County Nav District, TX",Energy,Gulf,Tropical storm (<50 kt),30,0,118.4,Yes,0.32,225.3,3,5
+107,Imelda,2019261N28264,2019,"Port Arthur, TX",Energy,Gulf,Tropical storm (<50 kt),30,0,128.9,Yes,0.36,554.5,3,5
+108,Imelda,2019261N28264,2019,"Port Freeport, TX",Energy,Gulf,Tropical storm (<50 kt),40,0,17.8,Yes,0.26,305.1,3,5
+109,Imelda,2019261N28264,2019,"Sabine Pass Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),35,0,126.3,Yes,0.36,554.5,3,5
+110,Imelda,2019261N28264,2019,"Texas City, TX",Energy,Gulf,Tropical storm (<50 kt),35,0,49.2,Yes,0.31,446.0,3,5
+111,Nestor,2019291N22264,2019,"Virginia, VA, Port of",Cargo,Atlantic,Tropical storm (<50 kt),40,-4,35.1,Yes,0.52,43.5,2,3
+112,Olga,2019299N25265,2019,"Greater Lafourche Port, LA",Service,Gulf,Tropical storm (<50 kt),45,0,82.2,Yes,0.33,89.4,2,4
+113,Olga,2019299N25265,2019,"New Orleans, LA",Energy,Gulf,Tropical storm (<50 kt),45,-4,57.1,Yes,0.39,44.0,1,4
+114,Olga,2019299N25265,2019,"Plaquemines Port District, LA",Mixed,Gulf,Tropical storm (<50 kt),45,0,128.0,Yes,0.2,,2,4
+115,Olga,2019299N25265,2019,"Port of Greater Baton Rouge, LA",Energy,Gulf,Tropical storm (<50 kt),45,0,83.8,Yes,0.14,44.7,2,4
+116,Olga,2019299N25265,2019,"Port of Iberia District, LA",Service,Gulf,Tropical storm (<50 kt),45,0,117.7,Yes,0.39,34.3,2,5
+117,Olga,2019299N25265,2019,"Port of Pascagoula, MS",Energy,Gulf,Tropical storm (<50 kt),45,-4,190.0,Yes,0.68,3.6,1,4
+118,Olga,2019299N25265,2019,"South Louisiana, LA, Port of",Energy,Gulf,Tropical storm (<50 kt),45,0,9.2,Yes,0.16,0.0,2,4
+119,Olga,2019299N25265,2019,"Terrebonne Parish Port, LA",Service,Gulf,Tropical storm (<50 kt),45,0,69.4,Yes,0.39,64.0,2,5
+120,Arthur,2020138N28281,2020,"Morehead City, NC",Cargo,Atlantic,Tropical storm (<50 kt),45,0,84.9,No,0.69,85.9,3,4
+121,Arthur,2020138N28281,2020,"Wilmington, NC",Cargo,Atlantic,Tropical storm (<50 kt),43,0,144.4,No,0.65,21.9,3,4
+122,Bertha,2020148N32281,2020,"Port of Charleston, SC",Cargo,Atlantic,Tropical storm (<50 kt),40,0,23.4,Yes,1.04,54.1,2,4
+123,Bertha,2020148N32281,2020,"Port of Savannah, GA",Cargo,Atlantic,Tropical storm (<50 kt),45,0,160.5,Yes,1.31,0.8,2,5
+124,Cristobal,2020154N19269,2020,"Greater Lafourche Port, LA",Service,Gulf,Tropical storm (<50 kt),45,0,42.8,Yes,0.64,31.0,3,6
+125,Cristobal,2020154N19269,2020,"Mobile, AL",Mixed,Gulf,Tropical storm (<50 kt),45,0,197.9,Yes,1.18,13.0,2,6
+126,Cristobal,2020154N19269,2020,"New Orleans, LA",Energy,Gulf,Tropical storm (<50 kt),45,0,31.0,Yes,1.0,65.3,2,6
+127,Cristobal,2020154N19269,2020,"Plaquemines Port District, LA",Mixed,Gulf,Tropical storm (<50 kt),45,0,32.1,Yes,0.68,,3,6
+128,Cristobal,2020154N19269,2020,"Port of Greater Baton Rouge, LA",Energy,Gulf,Tropical storm (<50 kt),35,0,69.1,Yes,0.15,69.6,3,5
+129,Cristobal,2020154N19269,2020,"Port of Iberia District, LA",Service,Gulf,Tropical storm (<50 kt),35,0,149.5,Yes,0.57,14.5,3,5
+130,Cristobal,2020154N19269,2020,"Port of Pascagoula, MS",Energy,Gulf,Tropical storm (<50 kt),45,0,143.3,Yes,1.1,204.7,2,6
+131,Cristobal,2020154N19269,2020,"South Louisiana, LA, Port of",Energy,Gulf,Tropical storm (<50 kt),40,0,42.9,Yes,0.29,,3,6
+132,Cristobal,2020154N19269,2020,"Terrebonne Parish Port, LA",Service,Gulf,Tropical storm (<50 kt),45,0,100.7,Yes,0.57,9.1,3,6
+133,Fay,2020188N28271,2020,"Albany Port District, NY",Cargo,Atlantic,Tropical storm (<50 kt),28,0,38.8,Yes,,0.0,2,7
+134,Fay,2020188N28271,2020,"Baltimore, MD",Cargo,Atlantic,Tropical storm (<50 kt),45,0,189.4,Yes,0.34,,3,5
+135,Fay,2020188N28271,2020,"Bridgeport, CT",Cargo,Atlantic,Tropical storm (<50 kt),30,0,90.8,Yes,1.1,32.3,2,6
+136,Fay,2020188N28271,2020,"Morehead City, NC",Cargo,Atlantic,Tropical storm (<50 kt),25,0,70.2,Yes,0.59,18.1,3,3
+137,Fay,2020188N28271,2020,"New Haven, CT",Cargo,Atlantic,Tropical storm (<50 kt),30,0,108.5,Yes,0.98,4.8,2,6
+138,Fay,2020188N28271,2020,"New York, NY & NJ",Mixed,Atlantic,Tropical storm (<50 kt),33,0,24.7,Yes,0.8,1.0,2,6
+139,Fay,2020188N28271,2020,"Philadelphia Regional Port, PA",Energy,Atlantic,Tropical storm (<50 kt),35,0,63.3,Yes,1.14,65.5,3,6
+140,Fay,2020188N28271,2020,"Port Jefferson, NY",Cargo,Atlantic,Tropical storm (<50 kt),33,0,103.1,Yes,1.1,15.5,2,6
+141,Fay,2020188N28271,2020,"Port of Charleston, SC",Cargo,Atlantic,Tropical storm (<50 kt),20,-3,33.3,Yes,1.05,45.8,4,4
+142,Fay,2020188N28271,2020,"South Jersey Port Corp, NJ",Cargo,Atlantic,Tropical storm (<50 kt),43,0,46.8,Yes,1.07,89.2,3,6
+143,Fay,2020188N28271,2020,"Virginia, VA, Port of",Cargo,Atlantic,Tropical storm (<50 kt),45,0,136.4,Yes,0.61,3.6,4,5
+144,Fay,2020188N28271,2020,"Wilmington, NC",Cargo,Atlantic,Tropical storm (<50 kt),25,0,56.7,Yes,0.73,42.7,4,4
+145,Hanna,2020205N26272,2020,"Brownsville, TX",Energy,Gulf,Hurricane (≥64 kt),80,1,75.7,Yes,0.41,109.7,3,4
+146,Hanna,2020205N26272,2020,"Calhoun Port Authority, TX",Energy,Gulf,Hurricane (≥64 kt),70,1,174.8,Yes,1.04,11.9,3,5
+147,Hanna,2020205N26272,2020,"Corpus Christi, TX",Energy,Gulf,Hurricane (≥64 kt),80,1,117.5,Yes,,87.9,3,5
+148,Isaias,2020211N13306,2020,"Albany Port District, NY",Cargo,Atlantic,Strong tropical storm (50–63 kt),50,0,31.2,Yes,,0.0,2,6
+149,Isaias,2020211N13306,2020,"Baltimore, MD",Cargo,Atlantic,Strong tropical storm (50–63 kt),58,0,53.1,Yes,0.45,,1,5
+150,Isaias,2020211N13306,2020,"Bridgeport, CT",Cargo,Atlantic,Strong tropical storm (50–63 kt),55,0,162.9,Yes,1.23,18.8,2,5
+151,Isaias,2020211N13306,2020,"Canaveral Port District, FL",Cargo,Atlantic,Strong tropical storm (50–63 kt),60,1,90.9,Yes,0.92,0.0,4,4
+152,Isaias,2020211N13306,2020,"New Haven, CT",Cargo,Atlantic,Strong tropical storm (50–63 kt),50,0,164.2,Yes,1.11,2.8,2,5
+153,Isaias,2020211N13306,2020,"New York, NY & NJ",Mixed,Atlantic,Strong tropical storm (50–63 kt),55,0,92.2,Yes,1.05,5.1,2,5
+154,Isaias,2020211N13306,2020,"Philadelphia Regional Port, PA",Energy,Atlantic,Strong tropical storm (50–63 kt),55,0,95.7,Yes,1.54,61.0,2,5
+155,Isaias,2020211N13306,2020,"Port Everglades, FL",Mixed,Atlantic,Strong tropical storm (50–63 kt),55,1,105.5,Yes,0.63,23.7,3,3
+156,Isaias,2020211N13306,2020,"Port Jefferson, NY",Cargo,Atlantic,Strong tropical storm (50–63 kt),55,0,168.8,Yes,1.23,4.3,2,5
+157,Isaias,2020211N13306,2020,"Port of Palm Beach District, FL",Mixed,Atlantic,Strong tropical storm (50–63 kt),58,1,95.0,Yes,0.64,8.9,3,3
+158,Isaias,2020211N13306,2020,"South Jersey Port Corp, NJ",Cargo,Atlantic,Strong tropical storm (50–63 kt),58,0,96.1,Yes,1.45,44.5,1,5
+159,Isaias,2020211N13306,2020,"Virginia, VA, Port of",Cargo,Atlantic,Strong tropical storm (50–63 kt),60,1,99.1,Yes,0.46,11.7,1,3
+160,Laura,2020233N14313,2020,"Beaumont, TX",Energy,Gulf,Hurricane (≥64 kt),130,4,85.6,Yes,0.5,0.0,2,5
+161,Laura,2020233N14313,2020,"Galveston, TX",Energy,Gulf,Hurricane (≥64 kt),130,4,161.7,Yes,0.95,5.1,2,5
+162,Laura,2020233N14313,2020,"Lake Charles Harbor District, LA",Energy,Gulf,Hurricane (≥64 kt),130,4,15.7,Yes,2.72,63.8,2,5
+163,Laura,2020233N14313,2020,"Orange County Nav District, TX",Energy,Gulf,Hurricane (≥64 kt),108,4,63.2,Yes,0.53,28.4,3,5
+164,Laura,2020233N14313,2020,"Port Arthur, TX",Energy,Gulf,Hurricane (≥64 kt),130,4,61.9,Yes,0.65,25.9,2,5
+165,Laura,2020233N14313,2020,"Port of Iberia District, LA",Service,Gulf,Hurricane (≥64 kt),130,4,146.6,Yes,1.4,115.8,2,5
+166,Laura,2020233N14313,2020,"Sabine Pass Port Authority, TX",Energy,Gulf,Hurricane (≥64 kt),130,4,79.5,Yes,0.65,25.9,2,5
+167,Laura,2020233N14313,2020,"Texas City, TX",Energy,Gulf,Hurricane (≥64 kt),130,4,159.0,Yes,0.72,5.1,2,5
+168,Marco,2020234N14280,2020,"Greater Lafourche Port, LA",Service,Gulf,Tropical storm (<50 kt),30,0,67.5,No,0.34,11.9,3,4
+169,Marco,2020234N14280,2020,"Lake Charles Harbor District, LA",Energy,Gulf,Tropical storm (<50 kt),20,0,135.0,No,0.21,0.5,2,5
+170,Marco,2020234N14280,2020,"New Orleans, LA",Energy,Gulf,Tropical storm (<50 kt),30,0,140.7,No,0.6,9.7,2,4
+171,Marco,2020234N14280,2020,"Orange County Nav District, TX",Energy,Gulf,Tropical storm (<50 kt),20,0,191.8,No,0.11,0.8,1,5
+172,Marco,2020234N14280,2020,"Plaquemines Port District, LA",Mixed,Gulf,Tropical storm (<50 kt),35,1,56.4,No,0.38,,3,4
+173,Marco,2020234N14280,2020,"Port Arthur, TX",Energy,Gulf,Tropical storm (<50 kt),20,0,181.1,No,0.17,0.3,2,5
+174,Marco,2020234N14280,2020,"Port of Greater Baton Rouge, LA",Energy,Gulf,Tropical storm (<50 kt),20,0,178.5,No,0.08,2.6,2,4
+175,Marco,2020234N14280,2020,"Port of Iberia District, LA",Service,Gulf,Tropical storm (<50 kt),20,0,85.9,No,0.17,5.8,2,5
+176,Marco,2020234N14280,2020,"Port of Pascagoula, MS",Energy,Gulf,Tropical storm (<50 kt),38,0,175.9,No,0.42,3.3,2,5
+177,Marco,2020234N14280,2020,"Sabine Pass Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),20,0,188.6,No,0.15,0.3,1,5
+178,Marco,2020234N14280,2020,"South Louisiana, LA, Port of",Energy,Gulf,Tropical storm (<50 kt),25,0,146.8,No,-0.04,6.6,2,4
+179,Marco,2020234N14280,2020,"Terrebonne Parish Port, LA",Service,Gulf,Tropical storm (<50 kt),25,0,78.1,No,0.17,0.0,2,5
+180,Sally,2020256N25281,2020,"Manatee County Port, FL",Mixed,Gulf,Tropical storm (<50 kt),45,1,142.4,Yes,0.41,42.0,4,3
+181,Sally,2020256N25281,2020,"Mobile, AL",Mixed,Gulf,Hurricane (≥64 kt),85,2,51.5,Yes,0.54,109.5,5,5
+182,Sally,2020256N25281,2020,"New Orleans, LA",Energy,Gulf,Hurricane (≥64 kt),73,2,194.7,Yes,0.78,0.3,5,4
+183,Sally,2020256N25281,2020,"Plaquemines Port District, LA",Mixed,Gulf,Hurricane (≥64 kt),70,2,134.3,Yes,1.11,,5,4
+184,Sally,2020256N25281,2020,"Port Everglades, FL",Mixed,Atlantic,Tropical storm (<50 kt),30,0,66.5,Yes,0.37,0.0,3,3
+185,Sally,2020256N25281,2020,"Port of Palm Beach District, FL",Mixed,Atlantic,Tropical storm (<50 kt),30,0,124.8,Yes,0.37,43.2,3,3
+186,Sally,2020256N25281,2020,"Port of Pascagoula, MS",Energy,Gulf,Hurricane (≥64 kt),95,2,90.4,Yes,0.92,6.6,5,4
+187,Sally,2020256N25281,2020,"PortMiami, FL",Mixed,Atlantic,Tropical storm (<50 kt),33,0,12.2,Yes,0.32,34.1,3,3
+188,Beta,2020261N21265,2020,"Beaumont, TX",Energy,Gulf,Tropical storm (<50 kt),25,0,17.1,Yes,0.64,0.0,6,5
+189,Beta,2020261N21265,2020,"Calhoun Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),40,0,4.8,Yes,0.59,60.2,6,4
+190,Beta,2020261N21265,2020,"Corpus Christi, TX",Energy,Gulf,Tropical storm (<50 kt),38,0,118.7,Yes,,34.6,4,4
+191,Beta,2020261N21265,2020,"Galveston, TX",Energy,Gulf,Tropical storm (<50 kt),25,0,52.6,Yes,0.88,89.0,6,5
+192,Beta,2020261N21265,2020,"Houston Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),25,0,41.7,Yes,1.33,241.3,6,5
+193,Beta,2020261N21265,2020,"Lake Charles Harbor District, LA",Energy,Gulf,Tropical storm (<50 kt),25,0,62.0,Yes,0.77,38.1,6,5
+194,Beta,2020261N21265,2020,"Orange County Nav District, TX",Energy,Gulf,Tropical storm (<50 kt),25,0,21.4,Yes,0.64,37.1,6,5
+195,Beta,2020261N21265,2020,"Port Arthur, TX",Energy,Gulf,Tropical storm (<50 kt),25,0,42.4,Yes,0.68,35.4,6,5
+196,Beta,2020261N21265,2020,"Port Freeport, TX",Energy,Gulf,Tropical storm (<50 kt),25,0,12.3,Yes,0.84,110.8,6,5
+197,Beta,2020261N21265,2020,"Port of Greater Baton Rouge, LA",Energy,Gulf,Tropical storm (<50 kt),25,0,101.2,Yes,0.42,34.9,7,4
+198,Beta,2020261N21265,2020,"Port of Iberia District, LA",Service,Gulf,Tropical storm (<50 kt),25,0,133.1,Yes,0.57,72.0,6,5
+199,Beta,2020261N21265,2020,"Sabine Pass Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),25,0,55.1,Yes,0.68,35.4,6,5
+200,Beta,2020261N21265,2020,"South Louisiana, LA, Port of",Energy,Gulf,Tropical storm (<50 kt),25,0,187.0,Yes,0.36,25.4,7,4
+201,Beta,2020261N21265,2020,"Texas City, TX",Energy,Gulf,Tropical storm (<50 kt),25,0,29.8,Yes,0.9,89.0,6,5
+202,Delta,2020279N16284,2020,"Beaumont, TX",Energy,Gulf,Hurricane (≥64 kt),85,3,104.0,Yes,0.21,0.0,2,5
+203,Delta,2020279N16284,2020,"Galveston, TX",Energy,Gulf,Hurricane (≥64 kt),90,3,136.4,Yes,0.66,54.1,2,5
+204,Delta,2020279N16284,2020,"Lake Charles Harbor District, LA",Energy,Gulf,Hurricane (≥64 kt),85,3,25.4,Yes,1.55,232.2,2,5
+205,Delta,2020279N16284,2020,"Orange County Nav District, TX",Energy,Gulf,Hurricane (≥64 kt),85,3,84.7,Yes,0.21,93.2,2,5
+206,Delta,2020279N16284,2020,"Port Arthur, TX",Energy,Gulf,Hurricane (≥64 kt),85,3,81.0,Yes,0.28,120.9,2,5
+207,Delta,2020279N16284,2020,"Port Freeport, TX",Energy,Gulf,Hurricane (≥64 kt),90,3,190.8,Yes,0.62,3.8,2,5
+208,Delta,2020279N16284,2020,"Port of Greater Baton Rouge, LA",Energy,Gulf,Strong tropical storm (50–63 kt),63,3,121.2,Yes,1.03,230.4,3,4
+209,Delta,2020279N16284,2020,"Port of Iberia District, LA",Service,Gulf,Hurricane (≥64 kt),75,3,115.3,Yes,1.74,69.4,2,5
+210,Delta,2020279N16284,2020,"Sabine Pass Port Authority, TX",Energy,Gulf,Hurricane (≥64 kt),87,3,82.9,Yes,0.28,120.9,2,5
+211,Delta,2020279N16284,2020,"Texas City, TX",Energy,Gulf,Hurricane (≥64 kt),87,3,145.8,Yes,0.58,54.1,2,5
+212,Zeta,2020299N18277,2020,"Baltimore, MD",Cargo,Atlantic,Tropical storm (<50 kt),45,-4,158.8,Yes,0.34,,2,4
+213,Zeta,2020299N18277,2020,"Greater Lafourche Port, LA",Service,Gulf,Hurricane (≥64 kt),100,3,37.8,Yes,0.89,18.5,2,4
+214,Zeta,2020299N18277,2020,"Mobile, AL",Mixed,Gulf,Hurricane (≥64 kt),73,3,111.5,Yes,1.65,30.0,2,5
+215,Zeta,2020299N18277,2020,"New Orleans, LA",Energy,Gulf,Hurricane (≥64 kt),85,3,18.7,Yes,1.22,74.4,2,4
+216,Zeta,2020299N18277,2020,"Philadelphia Regional Port, PA",Energy,Atlantic,Tropical storm (<50 kt),45,-4,149.2,Yes,1.2,59.7,2,4
+217,Zeta,2020299N18277,2020,"Plaquemines Port District, LA",Mixed,Gulf,Hurricane (≥64 kt),85,3,99.6,Yes,0.6,,2,4
+218,Zeta,2020299N18277,2020,"Port of Greater Baton Rouge, LA",Energy,Gulf,Hurricane (≥64 kt),85,3,137.2,Yes,0.22,10.2,2,4
+219,Zeta,2020299N18277,2020,"Port of Iberia District, LA",Service,Gulf,Hurricane (≥64 kt),100,3,128.8,Yes,0.34,16.5,2,5
+220,Zeta,2020299N18277,2020,"Port of Pascagoula, MS",Energy,Gulf,Hurricane (≥64 kt),73,3,107.5,Yes,2.13,68.3,2,4
+221,Zeta,2020299N18277,2020,"South Jersey Port Corp, NJ",Cargo,Atlantic,Tropical storm (<50 kt),45,-4,99.3,Yes,1.16,60.0,2,3
+222,Zeta,2020299N18277,2020,"South Louisiana, LA, Port of",Energy,Gulf,Hurricane (≥64 kt),85,3,61.8,Yes,0.41,49.3,2,4
+223,Zeta,2020299N18277,2020,"Terrebonne Parish Port, LA",Service,Gulf,Hurricane (≥64 kt),100,3,27.7,Yes,0.34,0.0,2,5
+224,Zeta,2020299N18277,2020,"Virginia, VA, Port of",Cargo,Atlantic,Tropical storm (<50 kt),45,0,193.8,Yes,0.7,5.6,2,4
+225,Eta,2020306N15288,2020,"Jacksonville, FL",Cargo,Atlantic,Tropical storm (<50 kt),38,0,23.3,Yes,0.38,16.3,3,4
+226,Eta,2020306N15288,2020,"Manatee County Port, FL",Mixed,Gulf,Strong tropical storm (50–63 kt),55,1,121.9,Yes,1.06,187.5,5,5
+227,Eta,2020306N15288,2020,"Port Everglades, FL",Mixed,Atlantic,Strong tropical storm (50–63 kt),55,1,141.4,Yes,0.59,228.1,5,5
+228,Eta,2020306N15288,2020,"Port of Brunswick, GA",Cargo,Atlantic,Tropical storm (<50 kt),35,0,32.9,Yes,,3.6,3,3
+229,Eta,2020306N15288,2020,"Port of Charleston, SC",Cargo,Atlantic,Tropical storm (<50 kt),40,0,125.5,Yes,1.09,33.0,2,4
+230,Eta,2020306N15288,2020,"Port of Savannah, GA",Cargo,Atlantic,Tropical storm (<50 kt),38,0,87.3,Yes,1.25,5.9,2,4
+231,Eta,2020306N15288,2020,"PortMiami, FL",Mixed,Atlantic,Strong tropical storm (50–63 kt),55,1,81.5,Yes,0.63,0.0,5,5
+232,Eta,2020306N15288,2020,"Tampa Port Authority, FL",Mixed,Gulf,Strong tropical storm (50–63 kt),53,1,112.2,Yes,1.41,49.3,4,5
+233,Bill,2021165N32282,2021,"Morehead City, NC",Cargo,Atlantic,Tropical storm (<50 kt),25,0,186.7,No,0.84,1.3,2,3
+234,Claudette,2021169N23268,2021,"Greater Lafourche Port, LA",Service,Gulf,Tropical storm (<50 kt),40,0,57.5,Yes,0.31,5.6,3,6
+235,Claudette,2021169N23268,2021,"Mobile, AL",Mixed,Gulf,Tropical storm (<50 kt),30,0,114.0,Yes,0.89,81.3,3,6
+236,Claudette,2021169N23268,2021,"Morehead City, NC",Cargo,Atlantic,Tropical storm (<50 kt),40,0,136.2,Yes,0.62,6.1,1,3
+237,Claudette,2021169N23268,2021,"New Orleans, LA",Energy,Gulf,Tropical storm (<50 kt),38,0,37.7,Yes,0.64,39.9,3,6
+238,Claudette,2021169N23268,2021,"Plaquemines Port District, LA",Mixed,Gulf,Tropical storm (<50 kt),38,0,119.3,Yes,0.36,,3,6
+239,Claudette,2021169N23268,2021,"Port of Charleston, SC",Cargo,Atlantic,Tropical storm (<50 kt),30,0,169.5,Yes,0.71,22.9,2,4
+240,Claudette,2021169N23268,2021,"Port of Greater Baton Rouge, LA",Energy,Gulf,Tropical storm (<50 kt),38,0,94.8,Yes,0.13,6.9,3,5
+241,Claudette,2021169N23268,2021,"Port of Iberia District, LA",Service,Gulf,Tropical storm (<50 kt),40,0,95.9,Yes,0.46,0.3,3,5
+242,Claudette,2021169N23268,2021,"Port of Pascagoula, MS",Energy,Gulf,Tropical storm (<50 kt),33,0,102.6,Yes,1.04,148.9,3,6
+243,Claudette,2021169N23268,2021,"South Louisiana, LA, Port of",Energy,Gulf,Tropical storm (<50 kt),38,0,13.6,Yes,0.13,35.6,3,6
+244,Claudette,2021169N23268,2021,"Terrebonne Parish Port, LA",Service,Gulf,Tropical storm (<50 kt),40,0,18.4,Yes,0.46,11.7,3,6
+245,Claudette,2021169N23268,2021,"Virginia, VA, Port of",Cargo,Atlantic,Tropical storm (<50 kt),40,0,100.3,Yes,0.49,0.0,1,5
+246,Claudette,2021169N23268,2021,"Wilmington, NC",Cargo,Atlantic,Tropical storm (<50 kt),40,0,141.6,Yes,0.67,33.8,2,4
+247,Danny,2021179N30287,2021,"Port of Brunswick, GA",Cargo,Atlantic,Tropical storm (<50 kt),30,0,158.0,Yes,,0.3,2,5
+248,Danny,2021179N30287,2021,"Port of Charleston, SC",Cargo,Atlantic,Tropical storm (<50 kt),35,0,91.4,Yes,1.1,6.4,2,4
+249,Danny,2021179N30287,2021,"Port of Savannah, GA",Cargo,Atlantic,Tropical storm (<50 kt),30,0,52.1,Yes,1.36,20.8,2,5
+250,Elsa,2021182N09317,2021,"Baltimore, MD",Cargo,Atlantic,Strong tropical storm (50–63 kt),50,0,146.5,Yes,0.25,,2,5
+251,Elsa,2021182N09317,2021,"Boston, MA",Mixed,Atlantic,Tropical storm (<50 kt),45,0,37.1,Yes,1.44,55.1,2,7
+252,Elsa,2021182N09317,2021,"Bridgeport, CT",Cargo,Atlantic,Strong tropical storm (50–63 kt),50,0,81.6,Yes,1.3,14.7,1,6
+253,Elsa,2021182N09317,2021,"Jacksonville, FL",Cargo,Atlantic,Tropical storm (<50 kt),45,1,151.3,Yes,0.46,79.0,3,5
+254,Elsa,2021182N09317,2021,"Manatee County Port, FL",Mixed,Gulf,Strong tropical storm (50–63 kt),60,1,107.5,Yes,0.66,47.0,3,5
+255,Elsa,2021182N09317,2021,"New Haven, CT",Cargo,Atlantic,Strong tropical storm (50–63 kt),50,0,69.4,Yes,1.23,86.6,2,6
+256,Elsa,2021182N09317,2021,"New York, NY & NJ",Mixed,Atlantic,Strong tropical storm (50–63 kt),50,0,90.9,Yes,0.7,0.0,1,6
+257,Elsa,2021182N09317,2021,"Philadelphia Regional Port, PA",Energy,Atlantic,Strong tropical storm (50–63 kt),50,0,94.0,Yes,1.04,32.3,1,6
+258,Elsa,2021182N09317,2021,"Port Jefferson, NY",Cargo,Atlantic,Strong tropical storm (50–63 kt),50,0,67.0,Yes,1.3,54.4,1,6
+259,Elsa,2021182N09317,2021,"Port of Brunswick, GA",Cargo,Atlantic,Tropical storm (<50 kt),45,0,121.5,Yes,,112.5,2,5
+260,Elsa,2021182N09317,2021,"Port of Charleston, SC",Cargo,Atlantic,Tropical storm (<50 kt),40,0,120.5,Yes,0.86,104.7,3,4
+261,Elsa,2021182N09317,2021,"Port of Providence, RI",Mixed,Atlantic,Tropical storm (<50 kt),45,0,39.3,Yes,0.85,52.1,2,6
+262,Elsa,2021182N09317,2021,"Port of Savannah, GA",Cargo,Atlantic,Tropical storm (<50 kt),40,0,100.6,Yes,1.15,70.4,2,5
+263,Elsa,2021182N09317,2021,"Portland, ME",Mixed,Atlantic,Tropical storm (<50 kt),43,0,83.7,Yes,1.46,59.7,2,6
+264,Elsa,2021182N09317,2021,"Searsport, ME",Mixed,Atlantic,Tropical storm (<50 kt),40,0,72.4,Yes,1.71,88.4,2,7
+265,Elsa,2021182N09317,2021,"South Jersey Port Corp, NJ",Cargo,Atlantic,Strong tropical storm (50–63 kt),50,0,59.4,Yes,1.0,63.2,2,6
+266,Elsa,2021182N09317,2021,"Tampa Port Authority, FL",Mixed,Gulf,Strong tropical storm (50–63 kt),55,1,114.0,Yes,0.79,25.4,3,3
+267,Elsa,2021182N09317,2021,"Virginia, VA, Port of",Cargo,Atlantic,Tropical storm (<50 kt),48,0,80.2,Yes,0.44,23.9,2,5
+268,Elsa,2021182N09317,2021,"Wilmington, NC",Cargo,Atlantic,Tropical storm (<50 kt),45,0,175.8,Yes,0.75,13.2,2,4
+269,Henri,2021227N36297,2021,"Albany Port District, NY",Cargo,Atlantic,Tropical storm (<50 kt),28,1,96.0,Yes,,0.0,3,6
+270,Henri,2021227N36297,2021,"Boston, MA",Mixed,Atlantic,Tropical storm (<50 kt),20,1,46.7,Yes,2.01,62.3,3,6
+271,Henri,2021227N36297,2021,"Bridgeport, CT",Cargo,Atlantic,Tropical storm (<50 kt),23,1,25.2,Yes,1.51,63.5,3,5
+272,Henri,2021227N36297,2021,"New Haven, CT",Cargo,Atlantic,Tropical storm (<50 kt),20,1,21.2,Yes,1.38,93.0,3,5
+273,Henri,2021227N36297,2021,"New York, NY & NJ",Mixed,Atlantic,Tropical storm (<50 kt),25,1,88.7,Yes,1.02,57.2,3,5
+274,Henri,2021227N36297,2021,"Philadelphia Regional Port, PA",Energy,Atlantic,Tropical storm (<50 kt),25,1,179.5,Yes,1.4,45.2,3,4
+275,Henri,2021227N36297,2021,"Port Jefferson, NY",Cargo,Atlantic,Tropical storm (<50 kt),23,1,51.6,Yes,1.51,59.0,3,5
+276,Henri,2021227N36297,2021,"Port of Providence, RI",Mixed,Atlantic,Tropical storm (<50 kt),20,1,19.4,Yes,1.16,23.1,3,5
+277,Henri,2021227N36297,2021,"Portland, ME",Mixed,Atlantic,Tropical storm (<50 kt),20,1,168.8,Yes,1.93,16.8,3,6
+278,Ida,2021239N17281,2021,"Baltimore, MD",Cargo,Atlantic,Tropical storm (<50 kt),33,-4,34.0,Yes,0.47,,2,5
+279,Ida,2021239N17281,2021,"Boston, MA",Mixed,Atlantic,Tropical storm (<50 kt),40,-4,147.8,Yes,1.17,96.5,1,5
+280,Ida,2021239N17281,2021,"Bridgeport, CT",Cargo,Atlantic,Tropical storm (<50 kt),40,-4,73.3,Yes,1.06,115.3,2,5
+281,Ida,2021239N17281,2021,"Greater Lafourche Port, LA",Service,Gulf,Hurricane (≥64 kt),125,4,21.2,Yes,0.92,16.0,4,4
+282,Ida,2021239N17281,2021,"New Haven, CT",Cargo,Atlantic,Tropical storm (<50 kt),40,-4,79.7,Yes,0.94,126.0,2,5
+283,Ida,2021239N17281,2021,"New Orleans, LA",Energy,Gulf,Hurricane (≥64 kt),105,4,59.5,Yes,1.44,98.3,3,4
+284,Ida,2021239N17281,2021,"New York, NY & NJ",Mixed,Atlantic,Tropical storm (<50 kt),38,-4,57.8,Yes,0.69,67.1,2,5
+285,Ida,2021239N17281,2021,"Philadelphia Regional Port, PA",Energy,Atlantic,Tropical storm (<50 kt),35,-4,56.7,Yes,1.62,89.7,2,4
+286,Ida,2021239N17281,2021,"Plaquemines Port District, LA",Mixed,Gulf,Hurricane (≥64 kt),130,4,67.2,Yes,1.41,,4,4
+287,Ida,2021239N17281,2021,"Port Jefferson, NY",Cargo,Atlantic,Tropical storm (<50 kt),40,-4,47.3,Yes,1.06,66.8,2,5
+288,Ida,2021239N17281,2021,"Port of Greater Baton Rouge, LA",Energy,Gulf,Hurricane (≥64 kt),65,4,50.7,Yes,0.39,33.8,3,4
+289,Ida,2021239N17281,2021,"Port of Iberia District, LA",Service,Gulf,Hurricane (≥64 kt),105,4,115.8,Yes,0.51,1.0,3,5
+290,Ida,2021239N17281,2021,"Port of Providence, RI",Mixed,Atlantic,Tropical storm (<50 kt),40,-4,101.2,Yes,0.59,95.3,1,5
+291,Ida,2021239N17281,2021,"Searsport, ME",Mixed,Atlantic,Tropical storm (<50 kt),40,-4,190.0,Yes,1.4,26.7,3,6
+292,Ida,2021239N17281,2021,"South Jersey Port Corp, NJ",Cargo,Atlantic,Tropical storm (<50 kt),35,-4,60.6,Yes,1.52,31.8,2,4
+293,Ida,2021239N17281,2021,"South Louisiana, LA, Port of",Energy,Gulf,Hurricane (≥64 kt),105,4,16.1,Yes,0.78,224.8,3,4
+294,Ida,2021239N17281,2021,"Terrebonne Parish Port, LA",Service,Gulf,Hurricane (≥64 kt),115,4,29.2,Yes,0.51,,3,5
+295,Nicholas,2021256N21265,2021,"Beaumont, TX",Energy,Gulf,Tropical storm (<50 kt),30,1,6.1,Yes,0.61,0.0,5,5
+296,Nicholas,2021256N21265,2021,"Brownsville, TX",Energy,Gulf,Strong tropical storm (50–63 kt),50,1,72.9,Yes,0.41,18.8,3,3
+297,Nicholas,2021256N21265,2021,"Calhoun Port Authority, TX",Energy,Gulf,Hurricane (≥64 kt),65,1,71.6,Yes,0.66,10.9,5,4
+298,Nicholas,2021256N21265,2021,"Corpus Christi, TX",Energy,Gulf,Strong tropical storm (50–63 kt),60,1,116.3,Yes,0.66,60.5,3,4
+299,Nicholas,2021256N21265,2021,"Galveston, TX",Energy,Gulf,Tropical storm (<50 kt),35,1,39.8,Yes,1.08,138.5,5,5
+300,Nicholas,2021256N21265,2021,"Greater Lafourche Port, LA",Service,Gulf,Tropical storm (<50 kt),20,0,131.9,Yes,,10.2,4,4
+301,Nicholas,2021256N21265,2021,"Houston Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),43,1,43.9,Yes,1.92,61.2,5,5
+302,Nicholas,2021256N21265,2021,"Lake Charles Harbor District, LA",Energy,Gulf,Tropical storm (<50 kt),28,1,44.0,Yes,0.58,83.6,5,5
+303,Nicholas,2021256N21265,2021,"New Orleans, LA",Energy,Gulf,Tropical storm (<50 kt),23,0,165.6,Yes,0.42,147.9,4,4
+304,Nicholas,2021256N21265,2021,"Orange County Nav District, TX",Energy,Gulf,Tropical storm (<50 kt),30,1,12.3,Yes,0.61,118.9,5,5
+305,Nicholas,2021256N21265,2021,"Port Arthur, TX",Energy,Gulf,Tropical storm (<50 kt),30,1,27.7,Yes,0.68,174.6,5,5
+306,Nicholas,2021256N21265,2021,"Port Freeport, TX",Energy,Gulf,Strong tropical storm (50–63 kt),58,1,12.3,Yes,1.41,94.5,5,5
+307,Nicholas,2021256N21265,2021,"Port of Greater Baton Rouge, LA",Energy,Gulf,Tropical storm (<50 kt),25,1,77.8,Yes,0.56,128.3,4,4
+308,Nicholas,2021256N21265,2021,"Port of Iberia District, LA",Service,Gulf,Tropical storm (<50 kt),20,1,8.7,Yes,0.72,81.3,4,5
+309,Nicholas,2021256N21265,2021,"Sabine Pass Port Authority, TX",Energy,Gulf,Tropical storm (<50 kt),30,1,34.6,Yes,0.68,174.6,5,5
+310,Nicholas,2021256N21265,2021,"South Louisiana, LA, Port of",Energy,Gulf,Tropical storm (<50 kt),23,0,120.3,Yes,0.26,2.0,4,4
+311,Nicholas,2021256N21265,2021,"Terrebonne Parish Port, LA",Service,Gulf,Tropical storm (<50 kt),20,1,74.0,Yes,0.72,0.0,4,5
+312,Nicholas,2021256N21265,2021,"Texas City, TX",Energy,Gulf,Tropical storm (<50 kt),35,1,16.9,Yes,1.28,138.5,5,5
+313,Wanda,2021299N33284,2021,"Boston, MA",Mixed,Atlantic,Strong tropical storm (50–63 kt),60,-4,166.5,No,1.69,27.7,2,5
+314,Wanda,2021299N33284,2021,"Port of Providence, RI",Mixed,Atlantic,Strong tropical storm (50–63 kt),58,-4,160.7,No,0.83,38.1,2,6
+315,Alex,2022154N21273,2022,"Canaveral Port District, FL",Cargo,Atlantic,Tropical storm (<50 kt),40,0,151.2,Yes,0.61,0.0,2,6
+316,Alex,2022154N21273,2022,"Manatee County Port, FL",Mixed,Gulf,Tropical storm (<50 kt),38,0,143.6,Yes,0.31,1.5,2,6
+317,Alex,2022154N21273,2022,"Port Everglades, FL",Mixed,Atlantic,Tropical storm (<50 kt),38,0,95.9,Yes,0.41,176.8,2,7
+318,Alex,2022154N21273,2022,"Port of Palm Beach District, FL",Mixed,Atlantic,Tropical storm (<50 kt),40,0,57.4,Yes,0.5,87.1,2,6
+319,Alex,2022154N21273,2022,"PortMiami, FL",Mixed,Atlantic,Tropical storm (<50 kt),38,0,140.0,Yes,0.47,210.3,2,6
+320,Alex,2022154N21273,2022,"Tampa Port Authority, FL",Mixed,Gulf,Tropical storm (<50 kt),38,0,175.6,Yes,0.38,5.1,2,5
+321,Colin,2022183N32280,2022,"Jacksonville, FL",Cargo,Atlantic,Tropical storm (<50 kt),30,0,196.7,Yes,0.3,16.0,2,5
+322,Colin,2022183N32280,2022,"Port of Brunswick, GA",Cargo,Atlantic,Tropical storm (<50 kt),30,0,118.6,Yes,,65.3,2,5
+323,Colin,2022183N32280,2022,"Port of Charleston, SC",Cargo,Atlantic,Tropical storm (<50 kt),35,0,13.0,Yes,1.01,23.4,2,4
+324,Colin,2022183N32280,2022,"Port of Savannah, GA",Cargo,Atlantic,Tropical storm (<50 kt),33,0,41.3,Yes,1.14,10.9,2,5
+325,Colin,2022183N32280,2022,"Wilmington, NC",Cargo,Atlantic,Tropical storm (<50 kt),30,0,103.9,Yes,0.68,33.6,2,4
+326,Ian,2022266N12294,2022,"Canaveral Port District, FL",Cargo,Atlantic,Strong tropical storm (50–63 kt),60,5,18.9,Yes,1.01,0.0,3,4
+327,Ian,2022266N12294,2022,"Manatee County Port, FL",Mixed,Gulf,Hurricane (≥64 kt),100,5,71.9,Yes,0.33,190.5,4,3
+328,Ian,2022266N12294,2022,"Port Everglades, FL",Mixed,Atlantic,Hurricane (≥64 kt),125,5,169.7,Yes,0.48,129.0,4,3
+329,Ian,2022266N12294,2022,"Port of Palm Beach District, FL",Mixed,Atlantic,Hurricane (≥64 kt),83,5,127.1,Yes,0.49,,4,3
+330,Ian,2022266N12294,2022,"PortMiami, FL",Mixed,Atlantic,Hurricane (≥64 kt),125,5,199.9,Yes,0.47,110.8,4,3
+331,Ian,2022266N12294,2022,"Tampa Port Authority, FL",Mixed,Gulf,Hurricane (≥64 kt),100,5,101.2,Yes,0.39,,4,3
+332,Nicole,2022311N21293,2022,"Canaveral Port District, FL",Cargo,Atlantic,Strong tropical storm (50–63 kt),62,1,92.2,Yes,1.41,0.0,3,5
+333,Nicole,2022311N21293,2022,"Jacksonville, FL",Cargo,Atlantic,Tropical storm (<50 kt),40,1,180.8,Yes,0.88,74.5,2,4
+334,Nicole,2022311N21293,2022,"Manatee County Port, FL",Mixed,Gulf,Strong tropical storm (50–63 kt),55,1,94.5,Yes,0.6,56.2,3,5
+335,Nicole,2022311N21293,2022,"Panama City Port Authority, FL",Service,Gulf,Tropical storm (<50 kt),33,0,124.9,Yes,0.19,20.3,2,4
+336,Nicole,2022311N21293,2022,"Port Everglades, FL",Mixed,Atlantic,Hurricane (≥64 kt),65,1,143.3,Yes,0.74,58.9,2,5
+337,Nicole,2022311N21293,2022,"Port of Palm Beach District, FL",Mixed,Atlantic,Hurricane (≥64 kt),65,1,96.5,Yes,0.89,0.0,2,5
+338,Nicole,2022311N21293,2022,"Tampa Port Authority, FL",Mixed,Gulf,Tropical storm (<50 kt),48,1,56.7,Yes,0.74,,3,5
+339,Harold,2023234N25271,2023,"Brownsville, TX",Energy,Gulf,Strong tropical storm (50–63 kt),50,0,119.7,Yes,0.39,19.6,2,3
+340,Harold,2023234N25271,2023,"Calhoun Port Authority, TX",Energy,Gulf,Strong tropical storm (50–63 kt),50,0,186.0,Yes,0.68,5.3,2,4
+341,Harold,2023234N25271,2023,"Corpus Christi, TX",Energy,Gulf,Strong tropical storm (50–63 kt),50,0,83.0,Yes,0.8,128.0,2,4
+342,Ophelia,2023265N29284,2023,"Baltimore, MD",Cargo,Atlantic,Tropical storm (<50 kt),20,0,61.1,Yes,0.72,44.4,2,4
+343,Ophelia,2023265N29284,2023,"South Jersey Port Corp, NJ",Cargo,Atlantic,Tropical storm (<50 kt),20,0,185.0,Yes,0.95,43.7,2,3
+344,Ophelia,2023265N29284,2023,"Virginia, VA, Port of",Cargo,Atlantic,Tropical storm (<50 kt),30,0,113.6,Yes,0.94,57.4,3,3

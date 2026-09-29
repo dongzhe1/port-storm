@@ -1,0 +1,31 @@
+grouping,level,window,n,no response,coupled,relative (amplified),relative (damped),absolute,no data
+intensity,Hurricane ≥64 kt,storm,67,18,27,20,1,0,1
+intensity,Strong TS 50–63 kt,storm,54,36,12,5,1,0,0
+intensity,Tropical storm <50 kt,storm,223,182,22,17,2,0,0
+intensity,Hurricane ≥64 kt,after,67,57,8,2,0,0,0
+intensity,Strong TS 50–63 kt,after,54,53,1,0,0,0,0
+intensity,Tropical storm <50 kt,after,223,203,17,2,1,0,0
+intensity,Hurricane ≥64 kt,event30,67,60,7,0,0,0,0
+intensity,Strong TS 50–63 kt,event30,54,51,2,0,1,0,0
+intensity,Tropical storm <50 kt,event30,223,207,12,3,1,0,0
+port_type,Cargo,storm,92,81,8,2,0,0,1
+port_type,Energy,storm,139,91,29,16,3,0,0
+port_type,Mixed,storm,79,49,17,13,0,0,0
+port_type,Service,storm,34,15,7,11,1,0,0
+port_type,Cargo,after,92,92,0,0,0,0,0
+port_type,Energy,after,139,118,17,3,1,0,0
+port_type,Mixed,after,79,74,4,1,0,0,0
+port_type,Service,after,34,29,5,0,0,0,0
+port_type,Cargo,event30,92,92,0,0,0,0,0
+port_type,Energy,event30,139,123,13,2,1,0,0
+port_type,Mixed,event30,79,73,4,1,1,0,0
+port_type,Service,event30,34,30,4,0,0,0,0
+layout,"Coastal, anchorage",storm,39,21,12,6,0,0,0
+layout,Open coast,storm,212,145,37,25,4,0,1
+layout,River / inland,storm,93,70,12,11,0,0,0
+layout,"Coastal, anchorage",after,39,36,2,0,1,0,0
+layout,Open coast,after,212,197,14,1,0,0,0
+layout,River / inland,after,93,80,10,3,0,0,0
+layout,"Coastal, anchorage",event30,39,35,3,1,0,0,0
+layout,Open coast,event30,212,200,11,0,1,0,0
+layout,River / inland,event30,93,83,7,2,1,0,0
